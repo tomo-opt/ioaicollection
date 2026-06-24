@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+AI领域的国际组织.xlsx
+international_orgs_seed.csv
+org_search_cache.jsonl
+uia_verification_cache.jsonl
+
+ai-io-site/data/actions.sample.json
+ai-io-site/data/source-registry.sample.json

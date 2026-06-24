@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <title>国际组织 AI 行动观察</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=20260623-1" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">AI + INTERNATIONAL ORGANIZATIONS</p>
+          <h1>国际组织 AI 行动观察</h1>
+          <p class="hero-text">
+            这个页面聚焦一件事：尽可能清楚地呈现国际组织在 AI 领域正在做什么。
+            你可以先看组织，再看行动，也可以直接看我们目前持续追踪的公开来源。
+          </p>
+          <div class="hero-highlights">
+            <span class="hero-pill">国际组织库</span>
+            <span class="hero-pill">AI 行动追踪</span>
+            <span class="hero-pill">公开来源覆盖</span>
+          </div>
+        </div>
+
+        <div class="hero-panel">
+          <div class="signal-card">
+            <span>当前收录</span>
+            <strong id="hero-org-count">0</strong>
+            <p>已整理并可浏览的国际组织、会议平台与相关框架条目。</p>
+          </div>
+        </div>
+      </header>
+
+      <nav class="module-nav" aria-label="模块切换">
+        <button class="module-tab is-active" data-module-target="organizations">机构</button>
+        <button class="module-tab" data-module-target="actions">行动</button>
+        <button class="module-tab" data-module-target="sources">资源</button>
+      </nav>
+
+      <main class="module-stage">
+        <section class="module-panel is-active" data-module-panel="organizations">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">机构</p>
+              <h2>国际组织库</h2>
+            </div>
+            <p class="section-note">
+              这一页主要回答“有哪些国际组织、平台或框架与 AI 相关”。页面语言用中文呈现，机构名称与公开内容保留其原始英文。
+            </p>
+          </div>
+
+          <div class="filters compact">
+            <label class="field field-wide">
+              <span>搜索</span>
+              <input id="search-input" type="search" placeholder="搜索英文名称、中文名称、简称或公开宗旨摘要" />
+            </label>
+            <label class="field">
+              <span>机构分类</span>
+              <select id="type-filter">
+                <option value="">全部</option>
+              </select>
+            </label>
+            <label class="field">
+              <span>官网情况</span>
+              <select id="official-filter">
+                <option value="">全部</option>
+                <option value="has-site">有官网</option>
+                <option value="no-site">官网待补</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="results-bar">
+            <p id="results-summary">载入中...</p>
+          </div>
+
+          <div id="org-grid" class="org-grid"></div>
+        </section>
+
+        <section class="module-panel" data-module-panel="actions">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">行动</p>
+              <h2>国际组织 AI 行动</h2>
+            </div>
+            <p class="section-note">
+              这一页收录的是国际组织公开发布的 AI 相关项目、报告、培训、工作坊、治理文件和活动信息。当前时间范围限定为近半年。
+            </p>
+          </div>
+
+          <div class="overview-strip">
+            <article class="overview-card">
+              <span>当前展示行动</span>
+              <strong id="action-count">0</strong>
+              <p>会随筛选条件变化</p>
+            </article>
+            <article class="overview-card">
+              <span>已接入来源</span>
+              <strong id="action-source-count">0</strong>
+              <p>用于补充行动线索的公开来源</p>
+            </article>
+            <article class="overview-card">
+              <span>时间范围</span>
+              <strong>近半年</strong>
+              <p>可选择某一日期之后的行动</p>
+            </article>
+          </div>
+
+          <div class="filters">
+            <label class="field">
+              <span>查看此日期之后</span>
+              <input id="action-date-filter" type="date" />
+            </label>
+            <label class="field">
+              <span>来源</span>
+              <select id="action-source-filter">
+                <option value="">全部</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="results-bar">
+            <p id="actions-summary">载入中...</p>
+          </div>
+
+          <div id="actions-grid" class="actions-grid"></div>
+        </section>
+
+        <section class="module-panel" data-module-panel="sources">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">资源</p>
+              <h2>国际组织 AI 资源库</h2>
+            </div>
+            <p class="section-note">
+              这一页汇总可直接访问的国际组织 AI 页面、专题入口与知识资源，方便你按机构、议题和平台继续延伸阅读。
+            </p>
+          </div>
+
+          <div class="overview-strip">
+            <article class="overview-card">
+              <span>资源入口</span>
+              <strong id="source-count">0</strong>
+              <p>当前可直接访问的公开页面与平台</p>
+            </article>
+            <article class="overview-card">
+              <span>资源类型</span>
+              <strong id="source-kind-count">-</strong>
+              <p>覆盖专题页、官网页面与平台型入口</p>
+            </article>
+            <article class="overview-card">
+              <span>使用方式</span>
+              <strong>直接访问</strong>
+              <p>点击卡片即可进入对应机构或平台页面</p>
+            </article>
+          </div>
+
+          <div id="source-grid" class="source-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="org-card-template">
+      <article class="org-card">
+        <div class="card-top">
+          <div>
+            <p class="card-kicker org-category"></p>
+            <h3 class="org-name"></h3>
+          </div>
+          <span class="badge org-chip"></span>
+        </div>
+        <p class="org-cn"></p>
+        <p class="org-aims"></p>
+        <dl class="meta-grid org-meta">
+          <div>
+            <dt>成立时间</dt>
+            <dd class="org-founded"></dd>
+          </div>
+          <div>
+            <dt>总部</dt>
+            <dd class="org-location"></dd>
+          </div>
+          <div>
+            <dt>原始类型</dt>
+            <dd class="org-type"></dd>
+          </div>
+        </dl>
+        <div class="card-actions">
+          <a class="button small org-link" target="_blank" rel="noreferrer">访问官网</a>
+        </div>
+      </article>
+    </template>
+
+    <template id="action-card-template">
+      <article class="action-card">
+        <div class="card-top">
+          <div>
+            <h3 class="action-title"></h3>
+            <p class="action-date-inline"></p>
+          </div>
+          <span class="badge action-date-badge"></span>
+        </div>
+        <p class="action-org-line"></p>
+        <p class="action-summary"></p>
+        <div class="card-actions">
+          <a class="button small action-link" target="_blank" rel="noreferrer">打开原始页面</a>
+        </div>
+      </article>
+    </template>
+
+    <template id="source-card-template">
+      <article class="source-card">
+        <div class="card-top">
+          <div>
+            <p class="card-kicker source-kind"></p>
+            <h3 class="source-name"></h3>
+          </div>
+        </div>
+        <p class="source-notes"></p>
+        <dl class="meta-grid">
+          <div>
+            <dt>资源内容</dt>
+            <dd class="source-output"></dd>
+          </div>
+          <div>
+            <dt>适合用途</dt>
+            <dd class="source-frequency"></dd>
+          </div>
+        </dl>
+        <div class="card-actions">
+          <a class="button small source-link" target="_blank" rel="noreferrer">打开资源</a>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js?v=20260623-1"></script>
+  </body>
+</html>
