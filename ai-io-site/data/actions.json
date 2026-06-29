@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-06-28T06:39:12+00:00",
-    "lastSeenAt": "2026-06-28T06:39:12+00:00",
+    "effectiveDate": "2026-06-29T07:09:32+00:00",
+    "lastSeenAt": "2026-06-29T07:09:32+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-06-28T06:39:12+00:00",
-    "lastSeenAt": "2026-06-28T06:39:12+00:00",
+    "effectiveDate": "2026-06-29T07:09:32+00:00",
+    "lastSeenAt": "2026-06-29T07:09:32+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,47 +77,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
-  },
-  {
-    "id": "act-23b72bd47d92fa4c",
-    "title": "Call for applications - challenge your use of AI in local and regional government",
-    "summary": "Call for applications - challenge your use of AI in local and regional government coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckEwRmktWC0zRTZteUdQTFlzTFpITWNocHZoMmp5MmFmT0RqbGNIZ3RMY3l4cG1ONFBYZVNnamp6cVdEekNEOXJwaHVnVE44eGRyRDJ6UGdVX1lQNnRRa0RWUmFORTk5ZFBnLU5SMTlsR05FUzdCMlZrTG5NOGYyTDRNWlZZV3FIYVRPaHZDZWJsNXdJTFdUajc0dmlSQ2g2N3hmVzVsbTF5YzNpMXVfUVpXbkxUUDNr?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-06-18T11:39:26+00:00",
-    "effectiveDate": "2026-06-18T11:39:26+00:00",
-    "lastSeenAt": "2026-06-28T06:39:13+00:00",
-    "score": 74,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:call for"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-24f7113250898a3a",
@@ -140,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-06-17T22:09:33+00:00",
     "effectiveDate": "2026-06-17T22:09:33+00:00",
-    "lastSeenAt": "2026-06-28T06:39:14+00:00",
+    "lastSeenAt": "2026-06-29T07:09:34+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -180,7 +139,7 @@
     "countries": [],
     "publishedAt": "2026-06-17T12:36:33+00:00",
     "effectiveDate": "2026-06-17T12:36:33+00:00",
-    "lastSeenAt": "2026-06-28T06:39:13+00:00",
+    "lastSeenAt": "2026-06-29T07:09:33+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -213,7 +172,7 @@
     "countries": [],
     "publishedAt": "2026-06-12T23:34:34+00:00",
     "effectiveDate": "2026-06-12T23:34:34+00:00",
-    "lastSeenAt": "2026-06-28T06:39:14+00:00",
+    "lastSeenAt": "2026-06-29T07:09:34+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -225,15 +184,15 @@
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
-    "id": "act-702ba54a73bd5d98",
-    "title": "The CEPEJ promotes the ethical use of AI in the justice system at the Neum Criminal Law Conference",
-    "summary": "The CEPEJ promotes the ethical use of AI in the justice system at the Neum Criminal Law Conference coe.int",
+    "id": "act-44f8c08c46e9e358",
+    "title": "Situational Analysis Report Highlights Human-Centred AI in Qualification Recognition",
+    "summary": "Situational Analysis Report Highlights Human-Centred AI in Qualification Recognition coe.int",
     "sourceUrl": "https://www.coe.int",
     "sourceDomain": "coe.int",
     "publisherUrl": "https://www.coe.int",
     "publisherDomain": "coe.int",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMjFOazdjWWh2Vk5KZjZYYTVDOTNUenJ0RW12X1dQQno2Y2dnaXpKT0VfZGNUbzJCczAxQlMxZmVzYmxERGItZ25zVnQ0bENELWlJRjRjazBhQ0ZXbG0waEV3M1VnYm9vZ1FqM1VuY1JGMjFEWW1FRnU2RzBUTDlMNnVZaWFsRFJ6aC1OQl96M2dPRzcxX1ozc0o4VEVNUnN2cmpla21NZjdzNlZmSDJTVThBMExNZnI3bTE4OEVjVkU0Rng4WGNMNm8wel9vOWpm?oc=5",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUVQMjBRU2gyYnZIT1ZWS1d4M3E0S3h3TFU5YXAyeVRIUkF1VEVKUktad3JpUmY3UkZFN3lTalZvMnhKWmdUN3lwVUFJcThTVGV3VkpXNndQUkNmamFpbVBaS2RMX2F6QXNrX1NjVVJwRkR6TUQ3eGJ2amFucVg2TlRKSGE2MTFFU3gzXzFWRUQ2dEtXakRSYlNmS3hxMnY5SEpFT0JPQVd2TGloS2VXWVFqY2JtbkxQUEJZQkkzTlg?oc=5",
     "sourceName": "Council of Europe AI Open-Web Discovery",
     "sourceLabelZh": "欧洲委员会 AI 页面发现",
     "sourceType": "trusted_domain_discovery",
@@ -251,51 +210,19 @@
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-06-04T07:00:00+00:00",
-    "effectiveDate": "2026-06-04T07:00:00+00:00",
-    "lastSeenAt": "2026-06-28T06:39:13+00:00",
+    "publishedAt": "2026-06-02T07:00:00+00:00",
+    "effectiveDate": "2026-06-02T07:00:00+00:00",
+    "lastSeenAt": "2026-06-29T07:09:33+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_domain_match",
       "official_or_subdomain_match",
       "ai_cues:ai",
-      "action_cues:conference"
+      "action_cues:report"
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-88c40fe9d8c83ddd",
-    "title": "UNESCO and University of Oxford launch a free global course on AI and Rule of Law",
-    "summary": "UNESCO and University of Oxford launch a free global course on AI and Rule of Law UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHBuUUVONEFRTHhrOWF1QWgtXy1aUlctQ2RwQ3VueWFONDJ0c3R3Yy1wbVdINGczamtTa2tfQVZJaGNJalV1dzR4VTJLRTRqRFVRU2tTT0I3anBHdlV6V1hxSHk1OGhHMnFlQTZxNC1laXJORV9MSlhDWFB3WVVxWEpIUDkzSlVrQTNZVzlMYklydXJ0cF9qYjlwRGRBU0NlRWdaQWVCVU8?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-05-11T07:00:00+00:00",
-    "effectiveDate": "2026-05-11T07:00:00+00:00",
-    "lastSeenAt": "2026-06-28T06:39:14+00:00",
-    "score": 56,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:course,launch"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-d91112b02ed3bb19",
@@ -318,7 +245,7 @@
     "countries": [],
     "publishedAt": "2026-01-16T08:00:00+00:00",
     "effectiveDate": "2026-01-16T08:00:00+00:00",
-    "lastSeenAt": "2026-06-28T06:39:14+00:00",
+    "lastSeenAt": "2026-06-29T07:09:33+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -350,7 +277,7 @@
     "countries": [],
     "publishedAt": "2026-01-16T08:00:00+00:00",
     "effectiveDate": "2026-01-16T08:00:00+00:00",
-    "lastSeenAt": "2026-06-28T06:39:14+00:00",
+    "lastSeenAt": "2026-06-29T07:09:33+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
