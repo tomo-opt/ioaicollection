@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-06-30T06:35:16+00:00",
-    "lastSeenAt": "2026-06-30T06:35:16+00:00",
+    "effectiveDate": "2026-07-01T06:48:03+00:00",
+    "lastSeenAt": "2026-07-01T06:48:03+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-06-30T06:35:16+00:00",
-    "lastSeenAt": "2026-06-30T06:35:16+00:00",
+    "effectiveDate": "2026-07-01T06:48:03+00:00",
+    "lastSeenAt": "2026-07-01T06:48:03+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,6 +77,47 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
+  },
+  {
+    "id": "act-1ec9de2e16d34077",
+    "title": "Second meeting of the Working Group to draft the CCJE Opinion on the use of artificial intelligence (AI) in the judicial process",
+    "summary": "Second meeting of the Working Group to draft the CCJE Opinion on the use of artificial intelligence (AI) in the judicial process coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNXzFubVBueDBTVUVmOFk0aHMxVzh3NVlyanlHR1NOUktSb1FMaWVzdUZQOGRfVjllcE9kRkUwbUtHYjBpVWRNMHZoZTFzRnZkeXQ0ZWtPRWc3VEtLdnAzTy1tczRJZGNFMVJYS2RTdEllcmlqeGRnRk5qdWY0MmxNZ1N0MlNfNVJZMGVIdW5fYlhCeEJNejNqTTI4d1NVcG5MNUVSTVhHNl9kcE92UFlwdGw0SEtnVmNlQWhPYTlZYkZ6Y3hZMTh5WElGZDFEZl8taGE0OHEzaVpEOFZveXNsYlNyVUlkbzd4SUt4Wm1odm9aQQ?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-06-30T20:13:53+00:00",
+    "effectiveDate": "2026-06-30T20:13:53+00:00",
+    "lastSeenAt": "2026-07-01T06:48:04+00:00",
+    "score": 80,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:ai,artificial intelligence",
+      "action_cues:meeting"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-24f7113250898a3a",
@@ -99,7 +140,7 @@
     "countries": [],
     "publishedAt": "2026-06-17T22:09:33+00:00",
     "effectiveDate": "2026-06-17T22:09:33+00:00",
-    "lastSeenAt": "2026-06-30T06:35:18+00:00",
+    "lastSeenAt": "2026-07-01T06:48:05+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -139,7 +180,7 @@
     "countries": [],
     "publishedAt": "2026-06-17T12:36:33+00:00",
     "effectiveDate": "2026-06-17T12:36:33+00:00",
-    "lastSeenAt": "2026-06-30T06:35:17+00:00",
+    "lastSeenAt": "2026-07-01T06:48:04+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -172,7 +213,7 @@
     "countries": [],
     "publishedAt": "2026-06-12T23:34:34+00:00",
     "effectiveDate": "2026-06-12T23:34:34+00:00",
-    "lastSeenAt": "2026-06-30T06:35:18+00:00",
+    "lastSeenAt": "2026-07-01T06:48:05+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -182,79 +223,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-44f8c08c46e9e358",
-    "title": "Situational Analysis Report Highlights Human-Centred AI in Qualification Recognition",
-    "summary": "Situational Analysis Report Highlights Human-Centred AI in Qualification Recognition coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUVQMjBRU2gyYnZIT1ZWS1d4M3E0S3h3TFU5YXAyeVRIUkF1VEVKUktad3JpUmY3UkZFN3lTalZvMnhKWmdUN3lwVUFJcThTVGV3VkpXNndQUkNmamFpbVBaS2RMX2F6QXNrX1NjVVJwRkR6TUQ3eGJ2amFucVg2TlRKSGE2MTFFU3gzXzFWRUQ2dEtXakRSYlNmS3hxMnY5SEpFT0JPQVd2TGloS2VXWVFqY2JtbkxQUEJZQkkzTlg?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-06-02T07:00:00+00:00",
-    "effectiveDate": "2026-06-02T07:00:00+00:00",
-    "lastSeenAt": "2026-06-30T06:35:17+00:00",
-    "score": 74,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:report"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-d91112b02ed3bb19",
-    "title": "AI competency framework for teachers",
-    "summary": "AI competency framework for teachers UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rc09Ma3p4Si0xT2ZhRDdRVXdtbjJ0SVl0cVlIM2tqSG5VeFdEbklKN0FBMnNUYUtSSkJIYzhWSlBoYmt6eTBuaFd3UEdVdmNjNlRVQzJZa0JFM3RObTBMS3dCWjVXSmtZOTctczdBWnZBOGE3dGc?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-01-16T08:00:00+00:00",
-    "effectiveDate": "2026-01-16T08:00:00+00:00",
-    "lastSeenAt": "2026-06-30T06:35:18+00:00",
-    "score": 56,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:competency,framework"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-4bee4477fb7463ee",
@@ -277,7 +245,39 @@
     "countries": [],
     "publishedAt": "2026-01-16T08:00:00+00:00",
     "effectiveDate": "2026-01-16T08:00:00+00:00",
-    "lastSeenAt": "2026-06-30T06:35:18+00:00",
+    "lastSeenAt": "2026-07-01T06:48:04+00:00",
+    "score": 56,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:competency,framework"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-d91112b02ed3bb19",
+    "title": "AI competency framework for teachers",
+    "summary": "AI competency framework for teachers UNESCO",
+    "sourceUrl": "https://www.unesco.org",
+    "sourceDomain": "unesco.org",
+    "publisherUrl": "https://www.unesco.org",
+    "publisherDomain": "unesco.org",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rc09Ma3p4Si0xT2ZhRDdRVXdtbjJ0SVl0cVlIM2tqSG5VeFdEbklKN0FBMnNUYUtSSkJIYzhWSlBoYmt6eTBuaFd3UEdVdmNjNlRVQzJZa0JFM3RObTBMS3dCWjVXSmtZOTctczdBWnZBOGE3dGc?oc=5",
+    "sourceName": "UNESCO AI Open-Web Discovery",
+    "sourceLabelZh": "UNESCO AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "UNESCO",
+    "sourceOrgLabel": "UNESCO",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-01-16T08:00:00+00:00",
+    "effectiveDate": "2026-01-16T08:00:00+00:00",
+    "lastSeenAt": "2026-07-01T06:48:04+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
