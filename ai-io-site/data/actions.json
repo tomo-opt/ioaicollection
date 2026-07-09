@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-07-08T05:32:55+00:00",
-    "lastSeenAt": "2026-07-08T05:32:55+00:00",
+    "effectiveDate": "2026-07-09T06:19:58+00:00",
+    "lastSeenAt": "2026-07-09T06:19:58+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-07-08T05:32:55+00:00",
-    "lastSeenAt": "2026-07-08T05:32:55+00:00",
+    "effectiveDate": "2026-07-09T06:19:58+00:00",
+    "lastSeenAt": "2026-07-09T06:19:58+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,6 +77,38 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
+  },
+  {
+    "id": "act-04789b562caa83b0",
+    "title": "AI ambition to action: The AI for Good Lab initiative",
+    "summary": "AI ambition to action: The AI for Good Lab initiative International Telecommunication Union",
+    "sourceUrl": "https://www.itu.int",
+    "sourceDomain": "itu.int",
+    "publisherUrl": "https://www.itu.int",
+    "publisherDomain": "itu.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObV8xYm1odV9HYm51cmxhdU1OMEdYaGxtcl9HUlJWYVRjTURvaE1rQnQ5TS1taUdONkEwSUc4MjJRS1NJSGhnWGhiYTVqa1JoaVlPYzFZLUJMOHVHSFVRbThSVDd2NE91SkhJbTA1aXJ5X2xxYzhxUm5NUXNVQlcyNzBtZjEyREVReDFGaVpR?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "International Telecommunication Union",
+    "sourceOrgLabel": "International Telecommunication Union",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-07-08T18:57:16+00:00",
+    "effectiveDate": "2026-07-08T18:57:16+00:00",
+    "lastSeenAt": "2026-07-09T06:20:00+00:00",
+    "score": 50,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:initiative"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-3e785eadb868638c",
@@ -99,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-07-06T09:35:40+00:00",
     "effectiveDate": "2026-07-06T09:35:40+00:00",
-    "lastSeenAt": "2026-07-08T05:32:57+00:00",
+    "lastSeenAt": "2026-07-09T06:20:00+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -139,7 +171,7 @@
     "countries": [],
     "publishedAt": "2026-07-02T15:50:06+00:00",
     "effectiveDate": "2026-07-02T15:50:06+00:00",
-    "lastSeenAt": "2026-07-08T05:32:56+00:00",
+    "lastSeenAt": "2026-07-09T06:19:59+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -150,38 +182,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-2d92373836a857ec",
-    "title": "UNESCO and AI-Lab/CBPF's call for remote access to Artificial Intelligence infrastructure",
-    "summary": "UNESCO and AI-Lab/CBPF's call for remote access to Artificial Intelligence infrastructure UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOS1RV3NXY3NPa3E5YmVmZm5DcHBUY1RQSXFtdWQ1dFdoRUR5bjBUV2FzeVJvTElyNHV6VjFhb3N0RkJBT1BjdzFVV3RyRnNPb2V5RnhhTHNiWHJDVVEtWk9UZ1Bwc2U2SUJua1RGRURuMWg2bWVGNDJoTWtrcHh5a1c3b0Y3d0xJZXlZNC0yQk50RzNyOEdFVDRfYTBzdFluV0lPeWs1Um9HV2hEREQ3ZDJGbkNjZms?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-02T13:42:52+00:00",
-    "effectiveDate": "2026-07-02T13:42:52+00:00",
-    "lastSeenAt": "2026-07-08T05:32:57+00:00",
-    "score": 56,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai,artificial intelligence",
-      "action_cues:call for"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-23b72bd47d92fa4c",
@@ -212,7 +212,7 @@
     "countries": [],
     "publishedAt": "2026-07-01T08:00:29+00:00",
     "effectiveDate": "2026-07-01T08:00:29+00:00",
-    "lastSeenAt": "2026-07-08T05:32:56+00:00",
+    "lastSeenAt": "2026-07-09T06:19:59+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -253,7 +253,7 @@
     "countries": [],
     "publishedAt": "2026-06-30T20:13:53+00:00",
     "effectiveDate": "2026-06-30T20:13:53+00:00",
-    "lastSeenAt": "2026-07-08T05:32:56+00:00",
+    "lastSeenAt": "2026-07-09T06:19:59+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -261,38 +261,6 @@
       "official_or_subdomain_match",
       "ai_cues:ai,artificial intelligence",
       "action_cues:meeting"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-d7c1ca4ba263d5cf",
-    "title": "Tackling AI driven discrimination in the Western Balkans and Eastern Partnership regions",
-    "summary": "Tackling AI driven discrimination in the Western Balkans and Eastern Partnership regions pjp-eu.coe.int",
-    "sourceUrl": "https://pjp-eu.coe.int",
-    "sourceDomain": "pjp-eu.coe.int",
-    "publisherUrl": "https://pjp-eu.coe.int",
-    "publisherDomain": "pjp-eu.coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNRVI1WlNhS1NOX2xmTjk1Sy1KVmNBTl9xU1Z3ME1FVWFZcHYwQW5feDBXUkdUbmtvR0x5dUdTcjY0LXYwWUVXSk9kU0dWUlBBdDR6SVZJVmpCcHhPeWJNc2dYSlBIOTlHVjk3ZGd0Z05QTS1hcXl6clFjU1kxUVVJdjY1emZvU1pPWGtTcjh4WTBLLTAxdjdURk1nbktkYURvTTN4U0E5dld3YU9xZTMwTmZOMXBkMUtXaUJGUEpsXzRYTmhUamxGQVUxcEZuNjNCWldOdWtpSXJsb3dzZjhtV2xWUS1YcEthVDZHOXZPb2ZwLTVfUVR0bExpUUN0cGVabTZ6bGk3RFl2ckRkeEZndV80RGdjME03WFg1NFBxMm44dXdKLWtoblE2MEN3Nmt3VUl0c0hxdmZfSnZXTFBNdUEyaWZmSGM?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "pjp-eu.coe.int",
-    "sourceOrgLabel": "pjp-eu.coe.int",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-06-03T07:00:00+00:00",
-    "effectiveDate": "2026-06-03T07:00:00+00:00",
-    "lastSeenAt": "2026-07-08T05:32:56+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:partnership"
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
@@ -318,7 +286,7 @@
     "countries": [],
     "publishedAt": "2026-05-11T07:00:00+00:00",
     "effectiveDate": "2026-05-11T07:00:00+00:00",
-    "lastSeenAt": "2026-07-08T05:32:57+00:00",
+    "lastSeenAt": "2026-07-09T06:20:00+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -350,7 +318,7 @@
     "countries": [],
     "publishedAt": "2026-01-16T08:00:00+00:00",
     "effectiveDate": "2026-01-16T08:00:00+00:00",
-    "lastSeenAt": "2026-07-08T05:32:57+00:00",
+    "lastSeenAt": "2026-07-09T06:20:00+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
