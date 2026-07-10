@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-07-09T06:19:58+00:00",
-    "lastSeenAt": "2026-07-09T06:19:58+00:00",
+    "effectiveDate": "2026-07-10T06:16:41+00:00",
+    "lastSeenAt": "2026-07-10T06:16:41+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-07-09T06:19:58+00:00",
-    "lastSeenAt": "2026-07-09T06:19:58+00:00",
+    "effectiveDate": "2026-07-10T06:16:41+00:00",
+    "lastSeenAt": "2026-07-10T06:16:41+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -99,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T18:57:16+00:00",
     "effectiveDate": "2026-07-08T18:57:16+00:00",
-    "lastSeenAt": "2026-07-09T06:20:00+00:00",
+    "lastSeenAt": "2026-07-10T06:16:43+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-07-06T09:35:40+00:00",
     "effectiveDate": "2026-07-06T09:35:40+00:00",
-    "lastSeenAt": "2026-07-09T06:20:00+00:00",
+    "lastSeenAt": "2026-07-10T06:16:42+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -171,7 +171,7 @@
     "countries": [],
     "publishedAt": "2026-07-02T15:50:06+00:00",
     "effectiveDate": "2026-07-02T15:50:06+00:00",
-    "lastSeenAt": "2026-07-09T06:19:59+00:00",
+    "lastSeenAt": "2026-07-10T06:16:42+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -184,45 +184,36 @@
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
-    "id": "act-23b72bd47d92fa4c",
-    "title": "Call for applications - challenge your use of AI in local and regional government",
-    "summary": "Call for applications - challenge your use of AI in local and regional government coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
+    "id": "act-2d92373836a857ec",
+    "title": "UNESCO and AI-Lab/CBPF's call for remote access to Artificial Intelligence infrastructure",
+    "summary": "UNESCO and AI-Lab/CBPF's call for remote access to Artificial Intelligence infrastructure UNESCO",
+    "sourceUrl": "https://www.unesco.org",
+    "sourceDomain": "unesco.org",
+    "publisherUrl": "https://www.unesco.org",
+    "publisherDomain": "unesco.org",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGZxTlBpSnFIcVR6b0Y5TUFrRFRxbkZSQ2lYU016aUpkS0x3c1FZVm9xSkl2QjM1dW9GckhqOWl0eHpmTzF3UzFsUjlLXzRVSXJMSURmUG1uNDQ3eVVNSC1oTERQTmI1RVk1eDVLMWdWRWRDNlhFNURiYXcyREw2XzJoQVJwZlJTeTdVYzd4RFFLb3gyS19qYVREY1poSmdjN0VRWjE0dkhpYXpYSkdZR1B3dw?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOS1RV3NXY3NPa3E5YmVmZm5DcHBUY1RQSXFtdWQ1dFdoRUR5bjBUV2FzeVJvTElyNHV6VjFhb3N0RkJBT1BjdzFVV3RyRnNPb2V5RnhhTHNiWHJDVVEtWk9UZ1Bwc2U2SUJua1RGRURuMWg2bWVGNDJoTWtrcHh5a1c3b0Y3d0xJZXlZNC0yQk50RzNyOEdFVDRfYTBzdFluV0lPeWs1Um9HV2hEREQ3ZDJGbkNjZms?oc=5",
+    "sourceName": "UNESCO AI Open-Web Discovery",
+    "sourceLabelZh": "UNESCO AI 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
+    "sourceOrg": "UNESCO",
+    "sourceOrgLabel": "UNESCO",
+    "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-07-01T08:00:29+00:00",
-    "effectiveDate": "2026-07-01T08:00:29+00:00",
-    "lastSeenAt": "2026-07-09T06:19:59+00:00",
-    "score": 74,
+    "publishedAt": "2026-07-02T13:42:52+00:00",
+    "effectiveDate": "2026-07-02T13:42:52+00:00",
+    "lastSeenAt": "2026-07-10T06:16:42+00:00",
+    "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
-      "official_domain_match",
       "official_or_subdomain_match",
-      "ai_cues:ai",
+      "ai_cues:ai,artificial intelligence",
       "action_cues:call for"
     ],
     "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
+    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-1ec9de2e16d34077",
@@ -253,7 +244,7 @@
     "countries": [],
     "publishedAt": "2026-06-30T20:13:53+00:00",
     "effectiveDate": "2026-06-30T20:13:53+00:00",
-    "lastSeenAt": "2026-07-09T06:19:59+00:00",
+    "lastSeenAt": "2026-07-10T06:16:42+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -286,7 +277,7 @@
     "countries": [],
     "publishedAt": "2026-05-11T07:00:00+00:00",
     "effectiveDate": "2026-05-11T07:00:00+00:00",
-    "lastSeenAt": "2026-07-09T06:20:00+00:00",
+    "lastSeenAt": "2026-07-10T06:16:42+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -318,7 +309,7 @@
     "countries": [],
     "publishedAt": "2026-01-16T08:00:00+00:00",
     "effectiveDate": "2026-01-16T08:00:00+00:00",
-    "lastSeenAt": "2026-07-09T06:20:00+00:00",
+    "lastSeenAt": "2026-07-10T06:16:42+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
