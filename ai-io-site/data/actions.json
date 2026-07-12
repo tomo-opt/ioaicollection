@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-07-11T05:23:59+00:00",
-    "lastSeenAt": "2026-07-11T05:23:59+00:00",
+    "effectiveDate": "2026-07-12T05:40:12+00:00",
+    "lastSeenAt": "2026-07-12T05:40:12+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-07-11T05:23:59+00:00",
-    "lastSeenAt": "2026-07-11T05:23:59+00:00",
+    "effectiveDate": "2026-07-12T05:40:12+00:00",
+    "lastSeenAt": "2026-07-12T05:40:12+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -99,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T18:57:16+00:00",
     "effectiveDate": "2026-07-08T18:57:16+00:00",
-    "lastSeenAt": "2026-07-11T05:24:01+00:00",
+    "lastSeenAt": "2026-07-12T05:40:14+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-07-06T08:14:43+00:00",
     "effectiveDate": "2026-07-06T08:14:43+00:00",
-    "lastSeenAt": "2026-07-11T05:24:00+00:00",
+    "lastSeenAt": "2026-07-12T05:40:13+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -151,7 +151,7 @@
     "publisherUrl": "https://www.coe.int",
     "publisherDomain": "coe.int",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTRkSmcya2lTc1RnSzg0WXh5UFVPb3RVMWxDUkZsMmJEQVNXbXQ4azNfZGM4d3BKZkQzTFN2US04WDFFNjRUd3B6ZlpjQ0FnTHhHLWdxczRCYVRnaXh3cUdmQmtCS0dmVUk2eS1FWU9DN0lxOENwLWZZRTNwZ1VOcWpfbU1SMVl6cGZ2V1RpT2JCYzg0aERDb3V2QXFHOEJJdk1Ub0RVeVY1UzExWjk1RzJNSWtIS2J5R1JLQUszaDRTUjBZNW00?oc=5",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFV0X2I1T1JIekQ5Nkw2MndFeTBRMUJ6RVVlZk5FZ1RKNnBjb0xlT3FHQ0luQkRod3J0dW9VOTVtWlI5dHRWUzg4LVRualZkUUhRZ1BYaXdieVR1UVpEMExBcEZaTThmbkpMRFpRekJsMHBuYlAwZlQ4SlVYaGNOOFlodTB0RG1meEU5aWd5TUNWclB2NWpxNGdhQkZRZHoxOU5kemJDNnJsZjUtOHJ5NWctNDJ4eHZvX3c2YzZEalBXRGhiWURN?oc=5",
     "sourceName": "Council of Europe AI Open-Web Discovery",
     "sourceLabelZh": "欧洲委员会 AI 页面发现",
     "sourceType": "trusted_domain_discovery",
@@ -169,9 +169,9 @@
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-07-02T15:50:06+00:00",
-    "effectiveDate": "2026-07-02T15:50:06+00:00",
-    "lastSeenAt": "2026-07-11T05:24:00+00:00",
+    "publishedAt": "2026-07-02T16:09:18+00:00",
+    "effectiveDate": "2026-07-02T16:09:18+00:00",
+    "lastSeenAt": "2026-07-12T05:40:13+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -179,47 +179,6 @@
       "official_or_subdomain_match",
       "ai_cues:ai",
       "action_cues:conference"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-23b72bd47d92fa4c",
-    "title": "Call for applications - challenge your use of AI in local and regional government",
-    "summary": "Call for applications - challenge your use of AI in local and regional government coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckEwRmktWC0zRTZteUdQTFlzTFpITWNocHZoMmp5MmFmT0RqbGNIZ3RMY3l4cG1ONFBYZVNnamp6cVdEekNEOXJwaHVnVE44eGRyRDJ6UGdVX1lQNnRRa0RWUmFORTk5ZFBnLU5SMTlsR05FUzdCMlZrTG5NOGYyTDRNWlZZV3FIYVRPaHZDZWJsNXdJTFdUajc0dmlSQ2g2N3hmVzVsbTF5YzNpMXVfUVpXbkxUUDNr?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-06-18T11:39:26+00:00",
-    "effectiveDate": "2026-06-18T11:39:26+00:00",
-    "lastSeenAt": "2026-07-11T05:24:00+00:00",
-    "score": 74,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:call for"
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
@@ -253,7 +212,7 @@
     "countries": [],
     "publishedAt": "2026-06-17T07:00:00+00:00",
     "effectiveDate": "2026-06-17T07:00:00+00:00",
-    "lastSeenAt": "2026-07-11T05:24:00+00:00",
+    "lastSeenAt": "2026-07-12T05:40:13+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -264,69 +223,5 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-88c40fe9d8c83ddd",
-    "title": "UNESCO and University of Oxford launch a free global course on AI and Rule of Law",
-    "summary": "UNESCO and University of Oxford launch a free global course on AI and Rule of Law UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHBuUUVONEFRTHhrOWF1QWgtXy1aUlctQ2RwQ3VueWFONDJ0c3R3Yy1wbVdINGczamtTa2tfQVZJaGNJalV1dzR4VTJLRTRqRFVRU2tTT0I3anBHdlV6V1hxSHk1OGhHMnFlQTZxNC1laXJORV9MSlhDWFB3WVVxWEpIUDkzSlVrQTNZVzlMYklydXJ0cF9qYjlwRGRBU0NlRWdaQWVCVU8?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-05-11T07:00:00+00:00",
-    "effectiveDate": "2026-05-11T07:00:00+00:00",
-    "lastSeenAt": "2026-07-11T05:24:00+00:00",
-    "score": 56,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:course,launch"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-d91112b02ed3bb19",
-    "title": "AI competency framework for teachers",
-    "summary": "AI competency framework for teachers UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rc09Ma3p4Si0xT2ZhRDdRVXdtbjJ0SVl0cVlIM2tqSG5VeFdEbklKN0FBMnNUYUtSSkJIYzhWSlBoYmt6eTBuaFd3UEdVdmNjNlRVQzJZa0JFM3RObTBMS3dCWjVXSmtZOTctczdBWnZBOGE3dGc?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-01-16T08:00:00+00:00",
-    "effectiveDate": "2026-01-16T08:00:00+00:00",
-    "lastSeenAt": "2026-07-11T05:24:00+00:00",
-    "score": 56,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:competency,framework"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   }
 ]
