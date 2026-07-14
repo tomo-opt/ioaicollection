@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-07-13T05:50:01+00:00",
-    "lastSeenAt": "2026-07-13T05:50:01+00:00",
+    "effectiveDate": "2026-07-14T05:11:17+00:00",
+    "lastSeenAt": "2026-07-14T05:11:17+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-07-13T05:50:01+00:00",
-    "lastSeenAt": "2026-07-13T05:50:01+00:00",
+    "effectiveDate": "2026-07-14T05:11:17+00:00",
+    "lastSeenAt": "2026-07-14T05:11:17+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,6 +77,47 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
+  },
+  {
+    "id": "act-ec871fcf43576c6c",
+    "title": "Ambassador Thomas Schneider highlights practical implementation of AI governance at WSIS Forum 2026",
+    "summary": "Ambassador Thomas Schneider highlights practical implementation of AI governance at WSIS Forum 2026 coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSi1MOHZYZFBXakxYVTl4cWVDQUxfSVNvQnBsVVU5aUE4SUNsaVJoOWpRVnZmZUVJWFNXMFFtb3BiYkFUT0dIS3pnNVdrVF9fLVgydGpjVHFPc0d6SUZxYkVoM2NpS2NMdG12a2lGRTludVRpSlRVSU1LaF9kUnlsWTNUOU5IMG90SmRjd2NBYzJTb0x5T1lHd0x0LVZKM09wRE03SGMzRkJGX08xQVBVWnNLcWVKOUt0dkxZMm43b2FJWlFyMUhCWURXb085NU45OS1KSFRqZ2RHS0FuOWJtTFY4bU9BUjg?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-07-10T11:43:41+00:00",
+    "effectiveDate": "2026-07-10T11:43:41+00:00",
+    "lastSeenAt": "2026-07-14T05:11:17+00:00",
+    "score": 80,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:ai,ai governance",
+      "action_cues:forum"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-04789b562caa83b0",
@@ -99,7 +140,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T18:57:16+00:00",
     "effectiveDate": "2026-07-08T18:57:16+00:00",
-    "lastSeenAt": "2026-07-13T05:50:03+00:00",
+    "lastSeenAt": "2026-07-14T05:11:18+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,86 +172,13 @@
     "countries": [],
     "publishedAt": "2026-07-06T08:14:43+00:00",
     "effectiveDate": "2026-07-06T08:14:43+00:00",
-    "lastSeenAt": "2026-07-13T05:50:03+00:00",
+    "lastSeenAt": "2026-07-14T05:11:18+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
       "ai_cues:ai",
       "action_cues:call for"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-c3e872c2ebc527e2",
-    "title": "High-level Conference: Beyond the algorithm: AI and equality in Europe",
-    "summary": "High-level Conference: Beyond the algorithm: AI and equality in Europe coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFV0X2I1T1JIekQ5Nkw2MndFeTBRMUJ6RVVlZk5FZ1RKNnBjb0xlT3FHQ0luQkRod3J0dW9VOTVtWlI5dHRWUzg4LVRualZkUUhRZ1BYaXdieVR1UVpEMExBcEZaTThmbkpMRFpRekJsMHBuYlAwZlQ4SlVYaGNOOFlodTB0RG1meEU5aWd5TUNWclB2NWpxNGdhQkZRZHoxOU5kemJDNnJsZjUtOHJ5NWctNDJ4eHZvX3c2YzZEalBXRGhiWURN?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-02T16:09:18+00:00",
-    "effectiveDate": "2026-07-02T16:09:18+00:00",
-    "lastSeenAt": "2026-07-13T05:50:02+00:00",
-    "score": 74,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:conference"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-d91112b02ed3bb19",
-    "title": "AI competency framework for teachers",
-    "summary": "AI competency framework for teachers UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rc09Ma3p4Si0xT2ZhRDdRVXdtbjJ0SVl0cVlIM2tqSG5VeFdEbklKN0FBMnNUYUtSSkJIYzhWSlBoYmt6eTBuaFd3UEdVdmNjNlRVQzJZa0JFM3RObTBMS3dCWjVXSmtZOTctczdBWnZBOGE3dGc?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-01-16T08:00:00+00:00",
-    "effectiveDate": "2026-01-16T08:00:00+00:00",
-    "lastSeenAt": "2026-07-13T05:50:03+00:00",
-    "score": 56,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:competency,framework"
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
