@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-07-15T05:11:28+00:00",
-    "lastSeenAt": "2026-07-15T05:11:28+00:00",
+    "effectiveDate": "2026-07-16T05:21:58+00:00",
+    "lastSeenAt": "2026-07-16T05:21:58+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-07-15T05:11:28+00:00",
-    "lastSeenAt": "2026-07-15T05:11:28+00:00",
+    "effectiveDate": "2026-07-16T05:21:58+00:00",
+    "lastSeenAt": "2026-07-16T05:21:58+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -107,7 +107,7 @@
     "countries": [],
     "publishedAt": "2026-07-10T11:43:41+00:00",
     "effectiveDate": "2026-07-10T11:43:41+00:00",
-    "lastSeenAt": "2026-07-15T05:11:28+00:00",
+    "lastSeenAt": "2026-07-16T05:21:59+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -140,7 +140,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T18:57:16+00:00",
     "effectiveDate": "2026-07-08T18:57:16+00:00",
-    "lastSeenAt": "2026-07-15T05:11:29+00:00",
+    "lastSeenAt": "2026-07-16T05:22:00+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -150,46 +150,5 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-c3e872c2ebc527e2",
-    "title": "High-level Conference: Beyond the algorithm: AI and equality in Europe",
-    "summary": "High-level Conference: Beyond the algorithm: AI and equality in Europe coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFV0X2I1T1JIekQ5Nkw2MndFeTBRMUJ6RVVlZk5FZ1RKNnBjb0xlT3FHQ0luQkRod3J0dW9VOTVtWlI5dHRWUzg4LVRualZkUUhRZ1BYaXdieVR1UVpEMExBcEZaTThmbkpMRFpRekJsMHBuYlAwZlQ4SlVYaGNOOFlodTB0RG1meEU5aWd5TUNWclB2NWpxNGdhQkZRZHoxOU5kemJDNnJsZjUtOHJ5NWctNDJ4eHZvX3c2YzZEalBXRGhiWURN?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-02T16:09:18+00:00",
-    "effectiveDate": "2026-07-02T16:09:18+00:00",
-    "lastSeenAt": "2026-07-15T05:11:28+00:00",
-    "score": 74,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:conference"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   }
 ]
