@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-07-16T05:21:58+00:00",
-    "lastSeenAt": "2026-07-16T05:21:58+00:00",
+    "effectiveDate": "2026-07-17T05:24:23+00:00",
+    "lastSeenAt": "2026-07-17T05:24:23+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-07-16T05:21:58+00:00",
-    "lastSeenAt": "2026-07-16T05:21:58+00:00",
+    "effectiveDate": "2026-07-17T05:24:23+00:00",
+    "lastSeenAt": "2026-07-17T05:24:23+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,78 +77,5 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
-  },
-  {
-    "id": "act-ec871fcf43576c6c",
-    "title": "Ambassador Thomas Schneider highlights practical implementation of AI governance at WSIS Forum 2026",
-    "summary": "Ambassador Thomas Schneider highlights practical implementation of AI governance at WSIS Forum 2026 coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSi1MOHZYZFBXakxYVTl4cWVDQUxfSVNvQnBsVVU5aUE4SUNsaVJoOWpRVnZmZUVJWFNXMFFtb3BiYkFUT0dIS3pnNVdrVF9fLVgydGpjVHFPc0d6SUZxYkVoM2NpS2NMdG12a2lGRTludVRpSlRVSU1LaF9kUnlsWTNUOU5IMG90SmRjd2NBYzJTb0x5T1lHd0x0LVZKM09wRE03SGMzRkJGX08xQVBVWnNLcWVKOUt0dkxZMm43b2FJWlFyMUhCWURXb085NU45OS1KSFRqZ2RHS0FuOWJtTFY4bU9BUjg?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-10T11:43:41+00:00",
-    "effectiveDate": "2026-07-10T11:43:41+00:00",
-    "lastSeenAt": "2026-07-16T05:21:59+00:00",
-    "score": 80,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai,ai governance",
-      "action_cues:forum"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-04789b562caa83b0",
-    "title": "AI ambition to action: The AI for Good Lab initiative",
-    "summary": "AI ambition to action: The AI for Good Lab initiative International Telecommunication Union",
-    "sourceUrl": "https://www.itu.int",
-    "sourceDomain": "itu.int",
-    "publisherUrl": "https://www.itu.int",
-    "publisherDomain": "itu.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObV8xYm1odV9HYm51cmxhdU1OMEdYaGxtcl9HUlJWYVRjTURvaE1rQnQ5TS1taUdONkEwSUc4MjJRS1NJSGhnWGhiYTVqa1JoaVlPYzFZLUJMOHVHSFVRbThSVDd2NE91SkhJbTA1aXJ5X2xxYzhxUm5NUXNVQlcyNzBtZjEyREVReDFGaVpR?oc=5",
-    "sourceName": "ITU AI Open-Web Discovery",
-    "sourceLabelZh": "ITU / AI for Good 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "International Telecommunication Union",
-    "sourceOrgLabel": "International Telecommunication Union",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-08T18:57:16+00:00",
-    "effectiveDate": "2026-07-08T18:57:16+00:00",
-    "lastSeenAt": "2026-07-16T05:22:00+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:initiative"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   }
 ]
