@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-07-18T05:06:42+00:00",
-    "lastSeenAt": "2026-07-18T05:06:42+00:00",
+    "effectiveDate": "2026-07-19T05:33:08+00:00",
+    "lastSeenAt": "2026-07-19T05:33:08+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-07-18T05:06:42+00:00",
-    "lastSeenAt": "2026-07-18T05:06:42+00:00",
+    "effectiveDate": "2026-07-19T05:33:08+00:00",
+    "lastSeenAt": "2026-07-19T05:33:08+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -99,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T18:57:16+00:00",
     "effectiveDate": "2026-07-08T18:57:16+00:00",
-    "lastSeenAt": "2026-07-18T05:06:44+00:00",
+    "lastSeenAt": "2026-07-19T05:33:10+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
