@@ -1,37 +1,5 @@
 [
   {
-    "id": "act-0873f28020c369b9",
-    "title": "AI Activity",
-    "summary": "AI Activity UN AI Resource Hub",
-    "sourceUrl": "https://unaihub.aiforgood.itu.int",
-    "sourceDomain": "unaihub.aiforgood.itu.int",
-    "publisherUrl": "https://unaihub.aiforgood.itu.int",
-    "publisherDomain": "unaihub.aiforgood.itu.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmdTNkhEYW1sMjVMZGpuQmQ2RTZHZmpoV3pHMWdkLXRSTVh5bXRHcG9BZkE5NTF0cjhSRGRUTnFsdkFiTkZPNTZfbXN1NXVqSFU5aUFYMTRlcVF0UU5kRkU0RDRSTV9WeENYYW91T1lGcE1ZTXotUjNLTXdyaGNwMWxqWQ?oc=5",
-    "sourceName": "ITU AI Open-Web Discovery",
-    "sourceLabelZh": "ITU / AI for Good 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UN AI Resource Hub",
-    "sourceOrgLabel": "UN AI Resource Hub",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-08-03T03:15:40+00:00",
-    "effectiveDate": "2026-08-03T03:15:40+00:00",
-    "lastSeenAt": "2026-08-04T05:27:07+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:resource"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
     "id": "act-647974b86667f061",
     "title": "AI for Good",
     "summary": "AI for Good International Telecommunication Union",
@@ -52,7 +20,7 @@
     "countries": [],
     "publishedAt": "2026-08-01T09:15:53+00:00",
     "effectiveDate": "2026-08-01T09:15:53+00:00",
-    "lastSeenAt": "2026-08-04T05:27:07+00:00",
+    "lastSeenAt": "2026-08-05T05:26:32+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -83,7 +51,7 @@
     "countries": [],
     "publishedAt": "2026-07-31T07:00:00+00:00",
     "effectiveDate": "2026-07-31T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:05+00:00",
+    "lastSeenAt": "2026-08-05T05:26:30+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -95,15 +63,15 @@
     "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
   },
   {
-    "id": "act-986df93c28f53e88",
-    "title": "Families Sue Social Media Giants Over AI-Driven Harm Leading to Teen Suicides",
-    "summary": "Families Sue Social Media Giants Over AI-Driven Harm Leading to Teen Suicides OECD AI Policy Observatory",
+    "id": "act-45557d5ccd6b8689",
+    "title": "FIR Filed Over AI-Generated Deepfake Videos Targeting Indian Officials",
+    "summary": "FIR Filed Over AI-Generated Deepfake Videos Targeting Indian Officials OECD AI Policy Observatory",
     "sourceUrl": "https://oecd.ai",
     "sourceDomain": "oecd.ai",
     "publisherUrl": "https://oecd.ai",
     "publisherDomain": "oecd.ai",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93amV1SjN6UlJxNVVMUFB0YUlTX2NRRjdGdlBzUEVIUVdtcWVfRzJudUY5UWFVYjN1cnd3UUJxa0N6WVVvNnNoUFZLVEhXcERBcmVkODFJOA?oc=5",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xV250b3dTWi1HZXJNb3VTY1R6eVVrZmRoTkZiNEdsUGYyQ2U0bmltaGU5Nm1yVDJXNnIzcEszN1JNT2E5emJtaS1HN2o2cWQzSUs1dTFCOA?oc=5",
     "sourceName": "OECD AI Open-Web Discovery",
     "sourceLabelZh": "OECD.AI 官方站发现",
     "sourceType": "trusted_domain_discovery",
@@ -115,7 +83,7 @@
     "countries": [],
     "publishedAt": "2026-07-31T07:00:00+00:00",
     "effectiveDate": "2026-07-31T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:05+00:00",
+    "lastSeenAt": "2026-08-05T05:26:30+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -147,7 +115,7 @@
     "countries": [],
     "publishedAt": "2026-07-30T07:00:00+00:00",
     "effectiveDate": "2026-07-30T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:05+00:00",
+    "lastSeenAt": "2026-08-05T05:26:30+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -157,37 +125,6 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
-  },
-  {
-    "id": "act-85250ec0665f5f6e",
-    "title": "Leveraging AI to Enhance Multi-Hazard Early Warning Systems (MHEWS)",
-    "summary": "Leveraging AI to Enhance Multi-Hazard Early Warning Systems (MHEWS) International Telecommunication Union",
-    "sourceUrl": "https://www.itu.int",
-    "sourceDomain": "itu.int",
-    "publisherUrl": "https://www.itu.int",
-    "publisherDomain": "itu.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWh3cmJnWEpzN2x6MnVZM0lxdDZ5ZWt3V1QxNzlDbTlLTHUzcXVKQ0VadHU1bEVOQ2plLWRhRWpwRExHV3dMeGlZcUFHTFJqTDA4YWdlaVJyZkl1bXRuRjFrWUg4VEV5cVhXMjhVVE5EazVPRXlnaEJwSThxUFpYaXl5VkwtNHlyaFBqUUVOZzZjMG41b1B6ZHl3Yw?oc=5",
-    "sourceName": "ITU AI Open-Web Discovery",
-    "sourceLabelZh": "ITU / AI for Good 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "International Telecommunication Union",
-    "sourceOrgLabel": "International Telecommunication Union",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-29T21:53:02+00:00",
-    "effectiveDate": "2026-07-29T21:53:02+00:00",
-    "lastSeenAt": "2026-08-04T05:27:07+00:00",
-    "score": 42,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-c21efd83dfb1bdab",
@@ -210,7 +147,7 @@
     "countries": [],
     "publishedAt": "2026-07-29T07:00:00+00:00",
     "effectiveDate": "2026-07-29T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:05+00:00",
+    "lastSeenAt": "2026-08-05T05:26:30+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -242,7 +179,7 @@
     "countries": [],
     "publishedAt": "2026-07-29T07:00:00+00:00",
     "effectiveDate": "2026-07-29T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:05+00:00",
+    "lastSeenAt": "2026-08-05T05:26:30+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -274,7 +211,7 @@
     "countries": [],
     "publishedAt": "2026-07-28T07:00:00+00:00",
     "effectiveDate": "2026-07-28T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:05+00:00",
+    "lastSeenAt": "2026-08-05T05:26:30+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -306,7 +243,7 @@
     "countries": [],
     "publishedAt": "2026-07-25T07:00:00+00:00",
     "effectiveDate": "2026-07-25T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:05+00:00",
+    "lastSeenAt": "2026-08-05T05:26:30+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -338,7 +275,7 @@
     "countries": [],
     "publishedAt": "2026-07-25T07:00:00+00:00",
     "effectiveDate": "2026-07-25T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:05+00:00",
+    "lastSeenAt": "2026-08-05T05:26:30+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -370,7 +307,7 @@
     "countries": [],
     "publishedAt": "2026-07-23T07:00:00+00:00",
     "effectiveDate": "2026-07-23T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:06+00:00",
+    "lastSeenAt": "2026-08-05T05:26:31+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -410,7 +347,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T11:49:03+00:00",
     "effectiveDate": "2026-07-08T11:49:03+00:00",
-    "lastSeenAt": "2026-08-04T05:27:06+00:00",
+    "lastSeenAt": "2026-08-05T05:26:31+00:00",
     "score": 72,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -450,7 +387,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T07:00:00+00:00",
     "effectiveDate": "2026-07-08T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:06+00:00",
+    "lastSeenAt": "2026-08-05T05:26:31+00:00",
     "score": 72,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -482,7 +419,7 @@
     "countries": [],
     "publishedAt": "2026-06-30T07:00:00+00:00",
     "effectiveDate": "2026-06-30T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:07+00:00",
+    "lastSeenAt": "2026-08-05T05:26:32+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -491,6 +428,46 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-ea2752ad2af3bf50",
+    "title": "Strengthening election reporting in the age of disinformation and AI",
+    "summary": "Strengthening election reporting in the age of disinformation and AI coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDdMRGNZTi1zZ0pnZVdjRFUtMW9icjMzV1RhRGoyQmxROUdKcTZFcmI0RDVKQnpnQ0diQjJxaHhFblR0WWR4UVFMc0g3elNxdlA3TDROWk9sSVRWZWZyQ1ptTGVzZ0piRGhvVVc0cElPNnZfWFFWNEtwdTV5NUlhQUgzeTVRNFVldVBIUmRleW9naUU2aEdMQkx0NGRWcEVXNkZ4bUw2SGp1MW16Z3ltWmVHaFlLclJkRVpR?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-06-03T07:00:00+00:00",
+    "effectiveDate": "2026-06-03T07:00:00+00:00",
+    "lastSeenAt": "2026-08-05T05:26:31+00:00",
+    "score": 66,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:ai"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-128bab332358b34b",
@@ -521,47 +498,7 @@
     "countries": [],
     "publishedAt": "2026-06-03T07:00:00+00:00",
     "effectiveDate": "2026-06-03T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:06+00:00",
-    "score": 66,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-1b561ab25cfbb7c4",
-    "title": "Council of Europe side event at Geneva Cyber Week 2026 on AI, cybercrime and electronic evidence",
-    "summary": "Council of Europe side event at Geneva Cyber Week 2026 on AI, cybercrime and electronic evidence coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbDdYSWh2eGVDS0pHQTlzMnZBUXhneDF2MWswcm90ZnlzSnRBRjVkLWxELXVxMFZ5bUdORkxaX1ZBeGs2ZWFNNXlDdF9BTDJ4bm4xanVZUU9Rd1ZiLXpzck5BVG9wbzBDcldub21kSU53d25SRFZ0d3JSX0RaamdTMGhucDBCdVJLY3NwMC1EcHU4RE5qSTAyZHg0NkxPdFZaRlRQNjBoZmZvXzl4aDFYR1ByWm5BenVHVTVKSmd3UnBlZmZqam5yMmVCUGZ1NThOY3JCY012ak85a3FidkstTGVR?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-04-28T07:00:00+00:00",
-    "effectiveDate": "2026-04-28T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:06+00:00",
+    "lastSeenAt": "2026-08-05T05:26:31+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -593,7 +530,7 @@
     "countries": [],
     "publishedAt": "2026-03-25T07:00:00+00:00",
     "effectiveDate": "2026-03-25T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:07+00:00",
+    "lastSeenAt": "2026-08-05T05:26:32+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -602,47 +539,5 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-5b3f99fd7730c392",
-    "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
-    "summary": "Proceedings of the AAAI Conference on Artificial Intelligence The Association for the Advancement of Artificial Intelligence",
-    "sourceUrl": "https://ojs.aaai.org",
-    "sourceDomain": "ojs.aaai.org",
-    "publisherUrl": "https://ojs.aaai.org",
-    "publisherDomain": "ojs.aaai.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUFJxV1ZrNFpZa0xPS1ZTVXpVT0UxT2ZpMkxmazR6YTB3R2liUldaQlJzcHJFQU5WN0JfOXJWc2VlaHNaUGZNci1KUkFFNDF6TjdF?oc=5",
-    "sourceName": "Seed Organization Open-Web Discovery: Association for the Advancement of Artificial Intelligence",
-    "sourceLabelZh": "种子组织轮询发现",
-    "sourceType": "seed_org_discovery",
-    "sourceOrg": "Association for the Advancement of Artificial Intelligence",
-    "sourceOrgLabel": "The Association for the Advancement of Artificial Intelligence",
-    "orgMatch": {
-      "nameEn": "Association for the Advancement of Artificial Intelligence",
-      "nameZh": "",
-      "officialDomain": "aaai.org",
-      "score": 5.5,
-      "reasons": [
-        "name_en_in_text",
-        "acronym_in_text"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-03-17T07:00:00+00:00",
-    "effectiveDate": "2026-03-17T07:00:00+00:00",
-    "lastSeenAt": "2026-08-04T05:27:09+00:00",
-    "score": 48,
-    "scoreReasons": [
-      "open_web_seed_discovery",
-      "name_en_in_text",
-      "acronym_in_text",
-      "ai_cues:artificial intelligence",
-      "action_cues:conference"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "\"Association for the Advancement of Artificial Intelligence\" (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
   }
 ]
