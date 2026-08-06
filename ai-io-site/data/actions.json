@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-08-05T05:26:30+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
+    "effectiveDate": "2026-08-06T05:28:49+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-08-05T05:26:30+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
+    "effectiveDate": "2026-08-06T05:28:49+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,6 +77,38 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
+  },
+  {
+    "id": "act-0583eee1fbb54b4e",
+    "title": "Session 571— AI for Good at Scale: The Community-Led Impact Flywheel | WSIS Forum 2026",
+    "summary": "Session 571— AI for Good at Scale: The Community-Led Impact Flywheel | WSIS Forum 2026 International Telecommunication Union",
+    "sourceUrl": "https://www.itu.int",
+    "sourceDomain": "itu.int",
+    "publisherUrl": "https://www.itu.int",
+    "publisherDomain": "itu.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcGtST04zUkE5WnR1YVhnZkx4LXJoOUZnaDJrd18zS0lLNjhGbTdWU1dPUDE4MFBkMUhNM0lDbjgxUVNOUUtuOHd1RzhJWTJwemlEMG83c3NyVDNkMktxLWJaTVlSak93eDMySUpJb01QbE9rZ25vRnRvZ0ZYSFVWck1IdWNtRTJ0ajdNQ3FadjNFMVR3OHRVTUNFS2Zwd3NQV3BkWmFOdzZULUxLUWhhVndrWHdPQTlKTlJSYnpKRG5VVGV3Qzk2U1ZqaThyUQ?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "International Telecommunication Union",
+    "sourceOrgLabel": "International Telecommunication Union",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-08-05T01:24:35+00:00",
+    "effectiveDate": "2026-08-05T01:24:35+00:00",
+    "lastSeenAt": "2026-08-06T05:28:51+00:00",
+    "score": 50,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:forum"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-1c47240da0e4fc97",
@@ -99,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-08-03T17:21:46+00:00",
     "effectiveDate": "2026-08-03T17:21:46+00:00",
-    "lastSeenAt": "2026-08-05T05:26:32+00:00",
+    "lastSeenAt": "2026-08-06T05:28:51+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,7 +163,7 @@
     "countries": [],
     "publishedAt": "2026-07-28T07:00:00+00:00",
     "effectiveDate": "2026-07-28T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:32+00:00",
+    "lastSeenAt": "2026-08-06T05:28:51+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -163,7 +195,7 @@
     "countries": [],
     "publishedAt": "2026-07-26T07:00:00+00:00",
     "effectiveDate": "2026-07-26T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:31+00:00",
+    "lastSeenAt": "2026-08-06T05:28:50+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -195,7 +227,7 @@
     "countries": [],
     "publishedAt": "2026-07-20T07:00:00+00:00",
     "effectiveDate": "2026-07-20T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:32+00:00",
+    "lastSeenAt": "2026-08-06T05:28:51+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -227,7 +259,7 @@
     "countries": [],
     "publishedAt": "2026-07-06T07:00:00+00:00",
     "effectiveDate": "2026-07-06T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:32+00:00",
+    "lastSeenAt": "2026-08-06T05:28:51+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -239,35 +271,85 @@
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
-    "id": "act-e421ad2b3068359f",
-    "title": "F.749.21 : Requirements and framework for generative artificial-intelligence (AI)-enabled vehicle-cloud collaboration systems for vehicular multimedia",
-    "summary": "F.749.21 : Requirements and framework for generative artificial-intelligence (AI)-enabled vehicle-cloud collaboration systems for vehicular multimedia International Telecommunication Union",
-    "sourceUrl": "https://www.itu.int",
-    "sourceDomain": "itu.int",
-    "publisherUrl": "https://www.itu.int",
-    "publisherDomain": "itu.int",
+    "id": "act-83509c39c053b1a5",
+    "title": "Council of Europe HELP course on Artificial Intelligence and Human Rights launched for Ukrainian public servants",
+    "summary": "Council of Europe HELP course on Artificial Intelligence and Human Rights launched for Ukrainian public servants coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TVmE5Qk9oVEY2MkhGaUZaTXdEdnl4dktoNXc5WDNvNUMwOVd1ZWRtMkNDSEtzU096SWtUOFBnOGRVeFJhQjNCZXFwRThUR2puekFIeC1wRVpNNlk?oc=5",
-    "sourceName": "ITU AI Open-Web Discovery",
-    "sourceLabelZh": "ITU / AI for Good 页面发现",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc0liZEtna21SdG9jTzJoM0loMVBBQlI1dlRZcGdmNXZKZ0RzdEV2dlBmalk4MDVwMFJhQVN6WWlKU1FZZDdJUTJLQTQ3MXFna2lNU0w3aUVrLXU1VUphWjlzbndYTzRnbjJwMGxKdDNmaGlySG1HWkJVamd4c3M4ZHpUdEFpQzFJcUJkd0NTNzRxUzNrdUxaSzd0WmJybFZQN3hpVUxQei1Gb01SYUVqdlhsRkFaZ2cySDR6ZmVIeFlTQnFNM1Rxcm5TcHpyQVRhMzZxSk1zZi14SDhjenBRUlhKZXBXTWxqaDV5eGU1aHNvM0otR3gxMQ?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "International Telecommunication Union",
-    "sourceOrgLabel": "International Telecommunication Union",
-    "orgMatch": null,
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-04-29T07:00:00+00:00",
-    "effectiveDate": "2026-04-29T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:32+00:00",
-    "score": 56,
+    "publishedAt": "2026-05-15T07:00:00+00:00",
+    "effectiveDate": "2026-05-15T07:00:00+00:00",
+    "lastSeenAt": "2026-08-06T05:28:50+00:00",
+    "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
+      "official_domain_match",
       "official_or_subdomain_match",
-      "ai_cues:ai,artificial intelligence",
-      "action_cues:framework"
+      "ai_cues:artificial intelligence",
+      "action_cues:course,launched"
     ],
     "reviewStatus": "publish",
-    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-f3b98363dfde700f",
+    "title": "Thematic Conference : Algorithmic Age: Human Rights, Democracy and Rule of Law",
+    "summary": "Thematic Conference : Algorithmic Age: Human Rights, Democracy and Rule of Law coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPdzZORF9jYmlZY2RzMzRPUnc4OVpTYi1pbjF1Q2tpNmliQjREZmtxSTZpdG1YOHc0eTFJYzJ6dHFwNVh2UzhZZWs2c2dISEl4ek81OFM0Zy1BeWNaUUJfR1pSMUd1U0JZSHVIWmJ0dzZ2X1FLU3lFbG9Ga3FrRzJidjM2ZGdZVzdJSEhQSXlDMXZVNG1qNUJSZG5RZWpuT2U4WTUwaXFCXzBSZC12ME45N0dBaDB6elV4MDRJREZqZHFNQTU0QWV4dHRTMVVyUkVmZGVNeUJpM0d5S2FIdnZyQlFxMnhZRTI4QllBbm1iSXR5cTRRcDhMVHI0TUs0LWQ5Vzh3UFZBNUsyYzFJTUhuTmdRdWRQdHdJTnphN0xVSm0ycUlSNE9jQkpoUmtvNGlOSzZxUW5CSzN0TUJ0MnotN0R3UkNyY3ZjLUV5aGlhQTZaNjhqVXcyekhBUDg1QTg?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-04-23T23:26:00+00:00",
+    "effectiveDate": "2026-04-23T23:26:00+00:00",
+    "lastSeenAt": "2026-08-06T05:28:50+00:00",
+    "score": 74,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:algorithmic",
+      "action_cues:conference"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   }
 ]

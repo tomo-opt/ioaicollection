@@ -1,5 +1,69 @@
 [
   {
+    "id": "act-5d1d7627835699c7",
+    "title": "OECD AI Policy Observatory Portal",
+    "summary": "OECD AI Policy Observatory Portal OECD AI Policy Observatory",
+    "sourceUrl": "https://oecd.ai",
+    "sourceDomain": "oecd.ai",
+    "publisherUrl": "https://oecd.ai",
+    "publisherDomain": "oecd.ai",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXBkRmw0SUNSNXRQaUcwYnZfVEcwUW9fNHZzMFRDMTRKRS1ZZlJpNnYtTWU5eVNtTWM2WEZDUWNLWXZrakZrSVpwOG9yZl90TDEySS1sSEs0QU9aZU4tODgwWFJEUGh6M3M3aVZqQV9IWnR0aGgyS0VVak1pbzlTNklEcUpnbjlDakJBQWFsYVVucEdjVXNKRnlZazlFM2M?oc=5",
+    "sourceName": "OECD AI Open-Web Discovery",
+    "sourceLabelZh": "OECD.AI 官方站发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "OECD AI Policy Observatory",
+    "sourceOrgLabel": "OECD AI Policy Observatory",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-08-03T16:56:57+00:00",
+    "effectiveDate": "2026-08-03T16:56:57+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
+    "score": 50,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:policy"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
+  },
+  {
+    "id": "act-2bc92ad49dd63d25",
+    "title": "AI-Generated Manipulated Video of Jacqueline Fernandez Sparks Police Complaint",
+    "summary": "AI-Generated Manipulated Video of Jacqueline Fernandez Sparks Police Complaint OECD AI Policy Observatory",
+    "sourceUrl": "https://oecd.ai",
+    "sourceDomain": "oecd.ai",
+    "publisherUrl": "https://oecd.ai",
+    "publisherDomain": "oecd.ai",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xREEtVWlNeGlLTjNiLWJ2UUdMZHQzU2oyUU1GdXM5b2JoSDJzTEU3V2w5ZmZuc0VnbjNxZkxXWVVfdFpUNHFQZHRJWExmVUVkOV9raWRZOA?oc=5",
+    "sourceName": "OECD AI Open-Web Discovery",
+    "sourceLabelZh": "OECD.AI 官方站发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "OECD AI Policy Observatory",
+    "sourceOrgLabel": "OECD AI Policy Observatory",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-08-02T07:31:53+00:00",
+    "effectiveDate": "2026-08-02T07:31:53+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
+    "score": 50,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:policy"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
+  },
+  {
     "id": "act-647974b86667f061",
     "title": "AI for Good",
     "summary": "AI for Good International Telecommunication Union",
@@ -20,7 +84,7 @@
     "countries": [],
     "publishedAt": "2026-08-01T09:15:53+00:00",
     "effectiveDate": "2026-08-01T09:15:53+00:00",
-    "lastSeenAt": "2026-08-05T05:26:32+00:00",
+    "lastSeenAt": "2026-08-06T05:28:51+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -51,39 +115,7 @@
     "countries": [],
     "publishedAt": "2026-07-31T07:00:00+00:00",
     "effectiveDate": "2026-07-31T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:policy"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
-  },
-  {
-    "id": "act-45557d5ccd6b8689",
-    "title": "FIR Filed Over AI-Generated Deepfake Videos Targeting Indian Officials",
-    "summary": "FIR Filed Over AI-Generated Deepfake Videos Targeting Indian Officials OECD AI Policy Observatory",
-    "sourceUrl": "https://oecd.ai",
-    "sourceDomain": "oecd.ai",
-    "publisherUrl": "https://oecd.ai",
-    "publisherDomain": "oecd.ai",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xV250b3dTWi1HZXJNb3VTY1R6eVVrZmRoTkZiNEdsUGYyQ2U0bmltaGU5Nm1yVDJXNnIzcEszN1JNT2E5emJtaS1HN2o2cWQzSUs1dTFCOA?oc=5",
-    "sourceName": "OECD AI Open-Web Discovery",
-    "sourceLabelZh": "OECD.AI 官方站发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "OECD AI Policy Observatory",
-    "sourceOrgLabel": "OECD AI Policy Observatory",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-31T07:00:00+00:00",
-    "effectiveDate": "2026-07-31T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -115,7 +147,7 @@
     "countries": [],
     "publishedAt": "2026-07-30T07:00:00+00:00",
     "effectiveDate": "2026-07-30T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -147,39 +179,7 @@
     "countries": [],
     "publishedAt": "2026-07-29T07:00:00+00:00",
     "effectiveDate": "2026-07-29T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:policy"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
-  },
-  {
-    "id": "act-7897afe996938b98",
-    "title": "AI-Driven Cyberattacks Cause Financial Losses and Security Breaches",
-    "summary": "AI-Driven Cyberattacks Cause Financial Losses and Security Breaches OECD AI Policy Observatory",
-    "sourceUrl": "https://oecd.ai",
-    "sourceDomain": "oecd.ai",
-    "publisherUrl": "https://oecd.ai",
-    "publisherDomain": "oecd.ai",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HQk9KOEcxT0RxZWstcXdlNjJ5X2NzazU5V04yUy1FRGo0Y0Z0eVduY2M5bzZqVEtNV2ZTTG9mdG9yNV8zUm9xU0U4Z0tBVFkwaFhUU3RjOA?oc=5",
-    "sourceName": "OECD AI Open-Web Discovery",
-    "sourceLabelZh": "OECD.AI 官方站发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "OECD AI Policy Observatory",
-    "sourceOrgLabel": "OECD AI Policy Observatory",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-29T07:00:00+00:00",
-    "effectiveDate": "2026-07-29T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -211,7 +211,7 @@
     "countries": [],
     "publishedAt": "2026-07-28T07:00:00+00:00",
     "effectiveDate": "2026-07-28T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -243,7 +243,7 @@
     "countries": [],
     "publishedAt": "2026-07-25T07:00:00+00:00",
     "effectiveDate": "2026-07-25T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -275,7 +275,7 @@
     "countries": [],
     "publishedAt": "2026-07-25T07:00:00+00:00",
     "effectiveDate": "2026-07-25T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:30+00:00",
+    "lastSeenAt": "2026-08-06T05:28:49+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -307,53 +307,13 @@
     "countries": [],
     "publishedAt": "2026-07-23T07:00:00+00:00",
     "effectiveDate": "2026-07-23T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:31+00:00",
+    "lastSeenAt": "2026-08-06T05:28:50+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
       "ai_cues:ai",
       "action_cues:training"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-a6a48f4dea51fbf5",
-    "title": "Council of Europe contributes to Global Dialogue on AI Governance side event",
-    "summary": "Council of Europe contributes to Global Dialogue on AI Governance side event coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSzg0b2gtampVemdNVXlOOXNHQzcwSmVnalhQMHNnR2hTTGFoUXlxbVFmVHVidDlsUUszTUl6ZzJNMUxXZ1Z6dkN1Vm5MMmgwNlhsMlRPdlFEY2xhVG9xbHFobWsyR2lGNkxubG1IOWd6aEFabUZ5TEFtOG1zSzdHZGZrel9aOE1jdnA4VXdISHNKclYwdmN2SEVVZzRWT1pPZXhsd1lsejh6Yk5RUHRtTXlrU3ZGU0NVYUpfUTl2STRPeXhRX0o3TQ?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-08T11:49:03+00:00",
-    "effectiveDate": "2026-07-08T11:49:03+00:00",
-    "lastSeenAt": "2026-08-05T05:26:31+00:00",
-    "score": 72,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai,ai governance"
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
@@ -387,7 +347,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T07:00:00+00:00",
     "effectiveDate": "2026-07-08T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:31+00:00",
+    "lastSeenAt": "2026-08-06T05:28:50+00:00",
     "score": 72,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -419,7 +379,7 @@
     "countries": [],
     "publishedAt": "2026-06-30T07:00:00+00:00",
     "effectiveDate": "2026-06-30T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:32+00:00",
+    "lastSeenAt": "2026-08-06T05:28:51+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -428,46 +388,6 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-ea2752ad2af3bf50",
-    "title": "Strengthening election reporting in the age of disinformation and AI",
-    "summary": "Strengthening election reporting in the age of disinformation and AI coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNDdMRGNZTi1zZ0pnZVdjRFUtMW9icjMzV1RhRGoyQmxROUdKcTZFcmI0RDVKQnpnQ0diQjJxaHhFblR0WWR4UVFMc0g3elNxdlA3TDROWk9sSVRWZWZyQ1ptTGVzZ0piRGhvVVc0cElPNnZfWFFWNEtwdTV5NUlhQUgzeTVRNFVldVBIUmRleW9naUU2aEdMQkx0NGRWcEVXNkZ4bUw2SGp1MW16Z3ltWmVHaFlLclJkRVpR?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-06-03T07:00:00+00:00",
-    "effectiveDate": "2026-06-03T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:31+00:00",
-    "score": 66,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-128bab332358b34b",
@@ -498,7 +418,7 @@
     "countries": [],
     "publishedAt": "2026-06-03T07:00:00+00:00",
     "effectiveDate": "2026-06-03T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:31+00:00",
+    "lastSeenAt": "2026-08-06T05:28:50+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -530,7 +450,7 @@
     "countries": [],
     "publishedAt": "2026-03-25T07:00:00+00:00",
     "effectiveDate": "2026-03-25T07:00:00+00:00",
-    "lastSeenAt": "2026-08-05T05:26:32+00:00",
+    "lastSeenAt": "2026-08-06T05:28:51+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -539,5 +459,45 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-d555daf416e53172",
+    "title": "IFR releases position paper on AI in robotics",
+    "summary": "IFR releases position paper on AI in robotics The Robot Report",
+    "sourceUrl": "https://www.therobotreport.com",
+    "sourceDomain": "therobotreport.com",
+    "publisherUrl": "https://www.therobotreport.com",
+    "publisherDomain": "therobotreport.com",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TeG1URlZrYWw0R3htMXhjNHJlZ3F6ZFA4eVRfZ0ZHSkkyR29sZ3oyQ2xnWWZsOVhucUFoT3ZrTkMxYzBYdzhzbXREa3ZCZFFUX2g4Ym9OekFCTmx4OXh1RVdxTzhXaUwxVzRrWVZ2YnY3WmVzd3FBem95Yw?oc=5",
+    "sourceName": "Seed Organization Open-Web Discovery: International Federation of Robotics",
+    "sourceLabelZh": "种子组织轮询发现",
+    "sourceType": "seed_org_discovery",
+    "sourceOrg": "International Federation of Robotics",
+    "sourceOrgLabel": "The Robot Report",
+    "orgMatch": {
+      "nameEn": "International Federation of Robotics",
+      "nameZh": "",
+      "officialDomain": "ifr.org",
+      "score": 1.5,
+      "reasons": [
+        "acronym_in_text"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-02-17T08:00:00+00:00",
+    "effectiveDate": "2026-02-17T08:00:00+00:00",
+    "lastSeenAt": "2026-08-06T05:28:52+00:00",
+    "score": 38,
+    "scoreReasons": [
+      "open_web_seed_discovery",
+      "acronym_in_text",
+      "ai_cues:ai",
+      "action_cues:paper,report"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "\"International Federation of Robotics\" (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
   }
 ]
