@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-08-11T03:56:36+00:00",
-    "lastSeenAt": "2026-08-11T03:56:36+00:00",
+    "effectiveDate": "2026-08-12T04:18:47+00:00",
+    "lastSeenAt": "2026-08-12T04:18:47+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-08-11T03:56:36+00:00",
-    "lastSeenAt": "2026-08-11T03:56:36+00:00",
+    "effectiveDate": "2026-08-12T04:18:47+00:00",
+    "lastSeenAt": "2026-08-12T04:18:47+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,6 +77,38 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
+  },
+  {
+    "id": "act-c23b72e20b2f9847",
+    "title": "Ray Kurzweil at AI for Good Global Summit 2026: \"We will not be replaced by AI — we will merge with it\"",
+    "summary": "Ray Kurzweil at AI for Good Global Summit 2026: \"We will not be replaced by AI — we will merge with it\" AI for Good",
+    "sourceUrl": "https://aiforgood.itu.int",
+    "sourceDomain": "aiforgood.itu.int",
+    "publisherUrl": "https://aiforgood.itu.int",
+    "publisherDomain": "aiforgood.itu.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXExRGZwTVFZaTl2dEJ3bFpBVHBMYWlBTVdDU2o4Sy1ZVUtJRjYyWHdOTFR3YjYxUVNDamxQSnBZV1JIQUd3bDNwazJxWXVHVUVqMndodUdkQWZQdHhaMHMtbUdkZWtHbWpEQ2R5LVYtZUhGbWdQSGYtMnp2aDhLa3lkRXRVeUkyOVhfeDRMMV9meVdBVjFtdHBRZDlNdFE5LXEyME9hendhUWttRmVEQWpFUFBURXE4bzZ5U3NFUzJJc28?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "AI for Good",
+    "sourceOrgLabel": "AI for Good",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-08-08T02:54:59+00:00",
+    "effectiveDate": "2026-08-08T02:54:59+00:00",
+    "lastSeenAt": "2026-08-12T04:18:49+00:00",
+    "score": 50,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:summit"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-64acb2561642610f",
@@ -99,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-08-06T13:31:51+00:00",
     "effectiveDate": "2026-08-06T13:31:51+00:00",
-    "lastSeenAt": "2026-08-11T03:56:38+00:00",
+    "lastSeenAt": "2026-08-12T04:18:49+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -139,7 +171,7 @@
     "countries": [],
     "publishedAt": "2026-05-15T07:00:00+00:00",
     "effectiveDate": "2026-05-15T07:00:00+00:00",
-    "lastSeenAt": "2026-08-11T03:56:37+00:00",
+    "lastSeenAt": "2026-08-12T04:18:48+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -172,7 +204,7 @@
     "countries": [],
     "publishedAt": "2026-05-11T07:00:00+00:00",
     "effectiveDate": "2026-05-11T07:00:00+00:00",
-    "lastSeenAt": "2026-08-11T03:56:38+00:00",
+    "lastSeenAt": "2026-08-12T04:18:49+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
