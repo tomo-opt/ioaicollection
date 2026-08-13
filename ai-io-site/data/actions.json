@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-08-12T04:18:47+00:00",
-    "lastSeenAt": "2026-08-12T04:18:47+00:00",
+    "effectiveDate": "2026-08-13T04:22:45+00:00",
+    "lastSeenAt": "2026-08-13T04:22:45+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-08-12T04:18:47+00:00",
-    "lastSeenAt": "2026-08-12T04:18:47+00:00",
+    "effectiveDate": "2026-08-13T04:22:45+00:00",
+    "lastSeenAt": "2026-08-13T04:22:45+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,38 +77,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
-  },
-  {
-    "id": "act-c23b72e20b2f9847",
-    "title": "Ray Kurzweil at AI for Good Global Summit 2026: \"We will not be replaced by AI — we will merge with it\"",
-    "summary": "Ray Kurzweil at AI for Good Global Summit 2026: \"We will not be replaced by AI — we will merge with it\" AI for Good",
-    "sourceUrl": "https://aiforgood.itu.int",
-    "sourceDomain": "aiforgood.itu.int",
-    "publisherUrl": "https://aiforgood.itu.int",
-    "publisherDomain": "aiforgood.itu.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXExRGZwTVFZaTl2dEJ3bFpBVHBMYWlBTVdDU2o4Sy1ZVUtJRjYyWHdOTFR3YjYxUVNDamxQSnBZV1JIQUd3bDNwazJxWXVHVUVqMndodUdkQWZQdHhaMHMtbUdkZWtHbWpEQ2R5LVYtZUhGbWdQSGYtMnp2aDhLa3lkRXRVeUkyOVhfeDRMMV9meVdBVjFtdHBRZDlNdFE5LXEyME9hendhUWttRmVEQWpFUFBURXE4bzZ5U3NFUzJJc28?oc=5",
-    "sourceName": "ITU AI Open-Web Discovery",
-    "sourceLabelZh": "ITU / AI for Good 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "AI for Good",
-    "sourceOrgLabel": "AI for Good",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-08-08T02:54:59+00:00",
-    "effectiveDate": "2026-08-08T02:54:59+00:00",
-    "lastSeenAt": "2026-08-12T04:18:49+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:summit"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-64acb2561642610f",
@@ -131,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-08-06T13:31:51+00:00",
     "effectiveDate": "2026-08-06T13:31:51+00:00",
-    "lastSeenAt": "2026-08-12T04:18:49+00:00",
+    "lastSeenAt": "2026-08-13T04:22:48+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -171,7 +139,7 @@
     "countries": [],
     "publishedAt": "2026-05-15T07:00:00+00:00",
     "effectiveDate": "2026-05-15T07:00:00+00:00",
-    "lastSeenAt": "2026-08-12T04:18:48+00:00",
+    "lastSeenAt": "2026-08-13T04:22:47+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -204,7 +172,7 @@
     "countries": [],
     "publishedAt": "2026-05-11T07:00:00+00:00",
     "effectiveDate": "2026-05-11T07:00:00+00:00",
-    "lastSeenAt": "2026-08-12T04:18:49+00:00",
+    "lastSeenAt": "2026-08-13T04:22:47+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -214,5 +182,46 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-f3b98363dfde700f",
+    "title": "Thematic Conference : Algorithmic Age: Human Rights, Democracy and Rule of Law",
+    "summary": "Thematic Conference : Algorithmic Age: Human Rights, Democracy and Rule of Law coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPdzZORF9jYmlZY2RzMzRPUnc4OVpTYi1pbjF1Q2tpNmliQjREZmtxSTZpdG1YOHc0eTFJYzJ6dHFwNVh2UzhZZWs2c2dISEl4ek81OFM0Zy1BeWNaUUJfR1pSMUd1U0JZSHVIWmJ0dzZ2X1FLU3lFbG9Ga3FrRzJidjM2ZGdZVzdJSEhQSXlDMXZVNG1qNUJSZG5RZWpuT2U4WTUwaXFCXzBSZC12ME45N0dBaDB6elV4MDRJREZqZHFNQTU0QWV4dHRTMVVyUkVmZGVNeUJpM0d5S2FIdnZyQlFxMnhZRTI4QllBbm1iSXR5cTRRcDhMVHI0TUs0LWQ5Vzh3UFZBNUsyYzFJTUhuTmdRdWRQdHdJTnphN0xVSm0ycUlSNE9jQkpoUmtvNGlOSzZxUW5CSzN0TUJ0MnotN0R3UkNyY3ZjLUV5aGlhQTZaNjhqVXcyekhBUDg1QTg?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-04-23T23:26:00+00:00",
+    "effectiveDate": "2026-04-23T23:26:00+00:00",
+    "lastSeenAt": "2026-08-13T04:22:47+00:00",
+    "score": 74,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:algorithmic",
+      "action_cues:conference"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   }
 ]
