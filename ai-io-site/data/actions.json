@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-08-15T03:08:02+00:00",
-    "lastSeenAt": "2026-08-15T03:08:02+00:00",
+    "effectiveDate": "2026-08-16T03:15:13+00:00",
+    "lastSeenAt": "2026-08-16T03:15:13+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-08-15T03:08:02+00:00",
-    "lastSeenAt": "2026-08-15T03:08:02+00:00",
+    "effectiveDate": "2026-08-16T03:15:13+00:00",
+    "lastSeenAt": "2026-08-16T03:15:13+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -81,7 +81,7 @@
   {
     "id": "act-64acb2561642610f",
     "title": "ITU AI/ML Challenge launch: Application inference from packet flows",
-    "summary": "ITU AI/ML Challenge launch: Application inference from packet flows aiforgood.itu.int",
+    "summary": "ITU AI/ML Challenge launch: Application inference from packet flows AI for Good",
     "sourceUrl": "https://aiforgood.itu.int",
     "sourceDomain": "aiforgood.itu.int",
     "publisherUrl": "https://aiforgood.itu.int",
@@ -91,15 +91,15 @@
     "sourceName": "ITU AI Open-Web Discovery",
     "sourceLabelZh": "ITU / AI for Good 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "aiforgood.itu.int",
-    "sourceOrgLabel": "aiforgood.itu.int",
+    "sourceOrg": "AI for Good",
+    "sourceOrgLabel": "AI for Good",
     "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
     "publishedAt": "2026-08-06T13:31:51+00:00",
     "effectiveDate": "2026-08-06T13:31:51+00:00",
-    "lastSeenAt": "2026-08-15T03:08:05+00:00",
+    "lastSeenAt": "2026-08-16T03:15:15+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-08-04T20:39:52+00:00",
     "effectiveDate": "2026-08-04T20:39:52+00:00",
-    "lastSeenAt": "2026-08-15T03:08:05+00:00",
+    "lastSeenAt": "2026-08-16T03:15:15+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -171,7 +171,7 @@
     "countries": [],
     "publishedAt": "2026-05-15T07:00:00+00:00",
     "effectiveDate": "2026-05-15T07:00:00+00:00",
-    "lastSeenAt": "2026-08-15T03:08:04+00:00",
+    "lastSeenAt": "2026-08-16T03:15:14+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
