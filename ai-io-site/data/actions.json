@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-08-16T03:15:13+00:00",
-    "lastSeenAt": "2026-08-16T03:15:13+00:00",
+    "effectiveDate": "2026-08-17T03:15:22+00:00",
+    "lastSeenAt": "2026-08-17T03:15:22+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-08-16T03:15:13+00:00",
-    "lastSeenAt": "2026-08-16T03:15:13+00:00",
+    "effectiveDate": "2026-08-17T03:15:22+00:00",
+    "lastSeenAt": "2026-08-17T03:15:22+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,6 +77,38 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
+  },
+  {
+    "id": "act-0bbad448dacd36f9",
+    "title": "Beyond extraction: What indigenous wisdom asks of artificial intelligence at the AI for Good Global Summit 2026",
+    "summary": "Beyond extraction: What indigenous wisdom asks of artificial intelligence at the AI for Good Global Summit 2026 AI for Good",
+    "sourceUrl": "https://aiforgood.itu.int",
+    "sourceDomain": "aiforgood.itu.int",
+    "publisherUrl": "https://aiforgood.itu.int",
+    "publisherDomain": "aiforgood.itu.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQVV5aG5yUkpHRlpYUWRMRUFMSzV4SnFmTy1qdk5KQkNHdWJoN19pbzBJU2s1OHk1dUNObVBHd0dFWWI5WHhleFNMSG1jb0Z4S0tTVWlxQS1PbGNRcVgzTFdqSk1KeER1akhMSUFVdWZyVEJRN2hXcVBHRkdrc0t5Sk1qVUZpYkt4MThVLUFmQS1JbHJORVNPazdTekJZNHlYa0kyOW9QWDk1VXpteHI4bWw0SWl4dGRIM0h5UmdBMUNrZmdCZUkwa3M5cXZVMm54RzE4?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "AI for Good",
+    "sourceOrgLabel": "AI for Good",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-08-16T13:03:17+00:00",
+    "effectiveDate": "2026-08-16T13:03:17+00:00",
+    "lastSeenAt": "2026-08-17T03:15:24+00:00",
+    "score": 56,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai,artificial intelligence",
+      "action_cues:summit"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-64acb2561642610f",
@@ -99,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-08-06T13:31:51+00:00",
     "effectiveDate": "2026-08-06T13:31:51+00:00",
-    "lastSeenAt": "2026-08-16T03:15:15+00:00",
+    "lastSeenAt": "2026-08-17T03:15:24+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,7 +163,7 @@
     "countries": [],
     "publishedAt": "2026-08-04T20:39:52+00:00",
     "effectiveDate": "2026-08-04T20:39:52+00:00",
-    "lastSeenAt": "2026-08-16T03:15:15+00:00",
+    "lastSeenAt": "2026-08-17T03:15:24+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -171,7 +203,7 @@
     "countries": [],
     "publishedAt": "2026-05-15T07:00:00+00:00",
     "effectiveDate": "2026-05-15T07:00:00+00:00",
-    "lastSeenAt": "2026-08-16T03:15:14+00:00",
+    "lastSeenAt": "2026-08-17T03:15:23+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
