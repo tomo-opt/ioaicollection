@@ -20,7 +20,7 @@
     "countries": [],
     "publishedAt": "2026-08-15T10:00:42+00:00",
     "effectiveDate": "2026-08-15T10:00:42+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:38+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -52,7 +52,7 @@
     "countries": [],
     "publishedAt": "2026-08-14T23:31:37+00:00",
     "effectiveDate": "2026-08-14T23:31:37+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:38+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -62,37 +62,6 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
-  },
-  {
-    "id": "act-2c6233dfe7c0a006",
-    "title": "Panama presented the RAM results and advanced toward a human-centered Artificial Intelligence",
-    "summary": "Panama presented the RAM results and advanced toward a human-centered Artificial Intelligence UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmlmYkVnX21BY0NmeW9fYm4xeDU0NmFpdEl3NUVxcmVyMldEMTlNQ3hJYmFYVXRZMHU5ZFRsVWF3UFNJa3RSRXhkdDlDay1CN3JLdi1WZm1aQWJKeVppZVd0WjlQRzAzbjA3aVlVSzBYeW9hZUdYdkZUVmV6VHZnc05uZUxaZFoyVEtzb09WZllac2ROcXZzaWNOUWNraXZVVjlYaU9Gb245VEhCN213QUgwZzFTa3gtUVF1R1QwNA?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-08-14T20:34:01+00:00",
-    "effectiveDate": "2026-08-14T20:34:01+00:00",
-    "lastSeenAt": "2026-08-17T03:15:24+00:00",
-    "score": 42,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:artificial intelligence"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-4a66c69cd71f15c1",
@@ -115,7 +84,7 @@
     "countries": [],
     "publishedAt": "2026-08-14T15:04:42+00:00",
     "effectiveDate": "2026-08-14T15:04:42+00:00",
-    "lastSeenAt": "2026-08-17T03:15:24+00:00",
+    "lastSeenAt": "2026-08-18T03:11:40+00:00",
     "score": 48,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -146,7 +115,7 @@
     "countries": [],
     "publishedAt": "2026-08-14T09:20:28+00:00",
     "effectiveDate": "2026-08-14T09:20:28+00:00",
-    "lastSeenAt": "2026-08-17T03:15:24+00:00",
+    "lastSeenAt": "2026-08-18T03:11:40+00:00",
     "score": 48,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -177,7 +146,7 @@
     "countries": [],
     "publishedAt": "2026-08-13T23:38:08+00:00",
     "effectiveDate": "2026-08-13T23:38:08+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:38+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -209,7 +178,7 @@
     "countries": [],
     "publishedAt": "2026-08-11T16:25:16+00:00",
     "effectiveDate": "2026-08-11T16:25:16+00:00",
-    "lastSeenAt": "2026-08-17T03:15:24+00:00",
+    "lastSeenAt": "2026-08-18T03:11:40+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -240,7 +209,7 @@
     "countries": [],
     "publishedAt": "2026-08-11T12:00:00+00:00",
     "effectiveDate": "2026-08-11T12:00:00+00:00",
-    "lastSeenAt": "2026-08-17T03:15:24+00:00",
+    "lastSeenAt": "2026-08-18T03:11:40+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -271,7 +240,7 @@
     "countries": [],
     "publishedAt": "2026-08-11T07:00:00+00:00",
     "effectiveDate": "2026-08-11T07:00:00+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:38+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -303,7 +272,7 @@
     "countries": [],
     "publishedAt": "2026-08-10T07:00:00+00:00",
     "effectiveDate": "2026-08-10T07:00:00+00:00",
-    "lastSeenAt": "2026-08-17T03:15:24+00:00",
+    "lastSeenAt": "2026-08-18T03:11:40+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -334,7 +303,7 @@
     "countries": [],
     "publishedAt": "2026-08-09T07:00:00+00:00",
     "effectiveDate": "2026-08-09T07:00:00+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:38+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -366,7 +335,7 @@
     "countries": [],
     "publishedAt": "2026-08-08T07:00:00+00:00",
     "effectiveDate": "2026-08-08T07:00:00+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:38+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -398,7 +367,7 @@
     "countries": [],
     "publishedAt": "2026-08-06T14:47:10+00:00",
     "effectiveDate": "2026-08-06T14:47:10+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:38+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -430,7 +399,7 @@
     "countries": [],
     "publishedAt": "2026-08-06T10:33:16+00:00",
     "effectiveDate": "2026-08-06T10:33:16+00:00",
-    "lastSeenAt": "2026-08-17T03:15:24+00:00",
+    "lastSeenAt": "2026-08-18T03:11:40+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -461,7 +430,7 @@
     "countries": [],
     "publishedAt": "2026-08-04T07:00:00+00:00",
     "effectiveDate": "2026-08-04T07:00:00+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:38+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -473,40 +442,41 @@
     "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
   },
   {
-    "id": "act-226c75b35b7784ba",
-    "title": "HentAI AI Top Picks Alternative Apps and Platform Reviews {3DG3TQi}",
-    "summary": "HentAI AI Top Picks Alternative Apps and Platform Reviews {3DG3TQi} Revista Educación Superior y Sociedad (ESS)",
-    "sourceUrl": "https://ess.iesalc.unesco.org",
-    "sourceDomain": "ess.iesalc.unesco.org",
-    "publisherUrl": "https://ess.iesalc.unesco.org",
-    "publisherDomain": "ess.iesalc.unesco.org",
+    "id": "act-0873f28020c369b9",
+    "title": "AI Activity",
+    "summary": "AI Activity UN AI Resource Hub",
+    "sourceUrl": "https://unaihub.aiforgood.itu.int",
+    "sourceDomain": "unaihub.aiforgood.itu.int",
+    "publisherUrl": "https://unaihub.aiforgood.itu.int",
+    "publisherDomain": "unaihub.aiforgood.itu.int",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQakVJSjB1aThiLXg3RTNudnNBdENVdmhQU21USkdVS2lXOUJiN1RfVG9fWGw4ZUVvZjlYQ2tYX2ZpV09zTmZLMElSbi04Ylluci1HTTV6VFF0aFBsTnBKODBockEweXo3c2pLaUtWXzloQWM2cmRLbC1wUmN5TmFHNkt4RDIxN21MUXBZTUxGdm9jMFUyWmg0NnIySW1mVVptYk9qeXJtM2RVanUzVFpiMThaZ2FhZzhhdkRtUVp3VEV4UTB6QmpmaGg1eUU1eGRZSmRUODMxcEt5QnQyNlhXck9VZUZoSVBBTzlpU3dfUXdWYTJxTG0yMnJ1U05wT3oydm84UTgzRkR0dnI2?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmdTNkhEYW1sMjVMZGpuQmQ2RTZHZmpoV3pHMWdkLXRSTVh5bXRHcG9BZkE5NTF0cjhSRGRUTnFsdkFiTkZPNTZfbXN1NXVqSFU5aUFYMTRlcVF0UU5kRkU0RDRSTV9WeENYYW91T1lGcE1ZTXotUjNLTXdyaGNwMWxqWQ?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Revista Educación Superior y Sociedad (ESS)",
-    "sourceOrgLabel": "Revista Educación Superior y Sociedad (ESS)",
+    "sourceOrg": "UN AI Resource Hub",
+    "sourceOrgLabel": "UN AI Resource Hub",
     "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-07-30T23:33:50+00:00",
-    "effectiveDate": "2026-07-30T23:33:50+00:00",
-    "lastSeenAt": "2026-08-17T03:15:24+00:00",
-    "score": 42,
+    "publishedAt": "2026-08-03T03:15:40+00:00",
+    "effectiveDate": "2026-08-03T03:15:40+00:00",
+    "lastSeenAt": "2026-08-18T03:11:40+00:00",
+    "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
-      "ai_cues:ai"
+      "ai_cues:ai",
+      "action_cues:resource"
     ],
     "reviewStatus": "review",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-8465eb77609608b1",
     "title": "What are the copyright challenges of AI training?",
-    "summary": "What are the copyright challenges of AI training? obs.coe.int",
+    "summary": "What are the copyright challenges of AI training? European Audiovisual Observatory",
     "sourceUrl": "https://www.obs.coe.int",
     "sourceDomain": "obs.coe.int",
     "publisherUrl": "https://www.obs.coe.int",
@@ -516,15 +486,15 @@
     "sourceName": "Council of Europe AI Open-Web Discovery",
     "sourceLabelZh": "欧洲委员会 AI 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "obs.coe.int",
-    "sourceOrgLabel": "obs.coe.int",
+    "sourceOrg": "European Audiovisual Observatory",
+    "sourceOrgLabel": "European Audiovisual Observatory",
     "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
     "publishedAt": "2026-07-23T07:00:00+00:00",
     "effectiveDate": "2026-07-23T07:00:00+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:39+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -564,7 +534,7 @@
     "countries": [],
     "publishedAt": "2026-06-03T07:00:00+00:00",
     "effectiveDate": "2026-06-03T07:00:00+00:00",
-    "lastSeenAt": "2026-08-17T03:15:23+00:00",
+    "lastSeenAt": "2026-08-18T03:11:39+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -596,7 +566,7 @@
     "countries": [],
     "publishedAt": "2026-05-13T14:01:38+00:00",
     "effectiveDate": "2026-05-13T14:01:38+00:00",
-    "lastSeenAt": "2026-08-17T03:15:24+00:00",
+    "lastSeenAt": "2026-08-18T03:11:40+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -605,47 +575,5 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-5b3f99fd7730c392",
-    "title": "Proceedings of the AAAI Conference on Artificial Intelligence",
-    "summary": "Proceedings of the AAAI Conference on Artificial Intelligence The Association for the Advancement of Artificial Intelligence",
-    "sourceUrl": "https://ojs.aaai.org",
-    "sourceDomain": "ojs.aaai.org",
-    "publisherUrl": "https://ojs.aaai.org",
-    "publisherDomain": "ojs.aaai.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nUFJxV1ZrNFpZa0xPS1ZTVXpVT0UxT2ZpMkxmazR6YTB3R2liUldaQlJzcHJFQU5WN0JfOXJWc2VlaHNaUGZNci1KUkFFNDF6TjdF?oc=5",
-    "sourceName": "Seed Organization Open-Web Discovery: Association for the Advancement of Artificial Intelligence",
-    "sourceLabelZh": "种子组织轮询发现",
-    "sourceType": "seed_org_discovery",
-    "sourceOrg": "Association for the Advancement of Artificial Intelligence",
-    "sourceOrgLabel": "The Association for the Advancement of Artificial Intelligence",
-    "orgMatch": {
-      "nameEn": "Association for the Advancement of Artificial Intelligence",
-      "nameZh": "",
-      "officialDomain": "aaai.org",
-      "score": 5.5,
-      "reasons": [
-        "name_en_in_text",
-        "acronym_in_text"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-03-17T07:00:00+00:00",
-    "effectiveDate": "2026-03-17T07:00:00+00:00",
-    "lastSeenAt": "2026-08-17T03:15:27+00:00",
-    "score": 48,
-    "scoreReasons": [
-      "open_web_seed_discovery",
-      "name_en_in_text",
-      "acronym_in_text",
-      "ai_cues:artificial intelligence",
-      "action_cues:conference"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "\"Association for the Advancement of Artificial Intelligence\" (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
   }
 ]
