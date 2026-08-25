@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-08-24T03:26:44+00:00",
-    "lastSeenAt": "2026-08-24T03:26:44+00:00",
+    "effectiveDate": "2026-08-25T03:14:39+00:00",
+    "lastSeenAt": "2026-08-25T03:14:39+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-08-24T03:26:44+00:00",
-    "lastSeenAt": "2026-08-24T03:26:44+00:00",
+    "effectiveDate": "2026-08-25T03:14:39+00:00",
+    "lastSeenAt": "2026-08-25T03:14:39+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -99,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-08-16T13:03:17+00:00",
     "effectiveDate": "2026-08-16T13:03:17+00:00",
-    "lastSeenAt": "2026-08-24T03:26:45+00:00",
+    "lastSeenAt": "2026-08-25T03:14:41+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -111,15 +111,15 @@
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
-    "id": "act-df05237011570de6",
-    "title": "AI Readiness Assessment Methodology: Nigeria",
-    "summary": "AI Readiness Assessment Methodology: Nigeria UNESCO",
+    "id": "act-16de02fb679bc6db",
+    "title": "AI Readiness Assessment Methodology: Thailand",
+    "summary": "AI Readiness Assessment Methodology: Thailand UNESCO",
     "sourceUrl": "https://www.unesco.org",
     "sourceDomain": "unesco.org",
     "publisherUrl": "https://www.unesco.org",
     "publisherDomain": "unesco.org",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFlFSHN6ZDNpYy0xU2x2dFdpOUNBV0xHOVpkZUVXSWRLOGp6RWhHeWFldVJTaGtPaXl5TEF2VzNtS0FhNVRuSGlOQTlVR0xldVA3b1kzWDJjOWRuR3QwVThUdmNNT01GVzBXR3ZaV3VFNzZjckJCbEVVOHcyNkFFZ0U4YjU?oc=5",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWpfUHVicDhIYldoT1dxaFZNakxkSWV4OW9KMnBVeFBMdXI5eG9VNVQwbEJiVzVNUU8xRTJ1YzhlVU5jTXMzcUdyUW5LemNpa21tQzdUTzY1cE0xYU1XU1o4TWdjZVhIdTFBR2JoUVpCX3lPdFc0VnJYOWlaVTZzOXVuZHVNdw?oc=5",
     "sourceName": "UNESCO AI Open-Web Discovery",
     "sourceLabelZh": "UNESCO AI 页面发现",
     "sourceType": "trusted_domain_discovery",
@@ -129,9 +129,9 @@
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-08-05T07:00:00+00:00",
-    "effectiveDate": "2026-08-05T07:00:00+00:00",
-    "lastSeenAt": "2026-08-24T03:26:45+00:00",
+    "publishedAt": "2026-07-31T07:00:00+00:00",
+    "effectiveDate": "2026-07-31T07:00:00+00:00",
+    "lastSeenAt": "2026-08-25T03:14:40+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -163,7 +163,7 @@
     "countries": [],
     "publishedAt": "2026-07-26T07:00:00+00:00",
     "effectiveDate": "2026-07-26T07:00:00+00:00",
-    "lastSeenAt": "2026-08-24T03:26:45+00:00",
+    "lastSeenAt": "2026-08-25T03:14:40+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -203,7 +203,7 @@
     "countries": [],
     "publishedAt": "2026-05-15T07:00:00+00:00",
     "effectiveDate": "2026-05-15T07:00:00+00:00",
-    "lastSeenAt": "2026-08-24T03:26:44+00:00",
+    "lastSeenAt": "2026-08-25T03:14:40+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
