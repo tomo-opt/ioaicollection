@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-08-25T03:14:39+00:00",
-    "lastSeenAt": "2026-08-25T03:14:39+00:00",
+    "effectiveDate": "2026-08-26T03:28:02+00:00",
+    "lastSeenAt": "2026-08-26T03:28:02+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-08-25T03:14:39+00:00",
-    "lastSeenAt": "2026-08-25T03:14:39+00:00",
+    "effectiveDate": "2026-08-26T03:28:02+00:00",
+    "lastSeenAt": "2026-08-26T03:28:02+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -99,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-08-16T13:03:17+00:00",
     "effectiveDate": "2026-08-16T13:03:17+00:00",
-    "lastSeenAt": "2026-08-25T03:14:41+00:00",
+    "lastSeenAt": "2026-08-26T03:28:04+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,45 +131,13 @@
     "countries": [],
     "publishedAt": "2026-07-31T07:00:00+00:00",
     "effectiveDate": "2026-07-31T07:00:00+00:00",
-    "lastSeenAt": "2026-08-25T03:14:40+00:00",
+    "lastSeenAt": "2026-08-26T03:28:04+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
       "ai_cues:ai",
       "action_cues:assessment"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-13c0319a0c323df6",
-    "title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI",
-    "summary": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS256RTBsT0lHUWR3QkxoMml2U1QyUS1SVS1mQXlZd3ZaUldGSWwyMGxhdHYxYTFycC1ET19Xc1RvaTg0X2JOV1NxVUN4QXhBNHZWY3ppQ1o5cVhBZ1FPcGQ2UXljTWFjVW9zN05DdUZPUXU3X0tkMHN2NXM0a0NJWE45bVdTbXp4U3ZLenFZNTVMNzQ?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-26T07:00:00+00:00",
-    "effectiveDate": "2026-07-26T07:00:00+00:00",
-    "lastSeenAt": "2026-08-25T03:14:40+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:launch"
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
@@ -203,7 +171,7 @@
     "countries": [],
     "publishedAt": "2026-05-15T07:00:00+00:00",
     "effectiveDate": "2026-05-15T07:00:00+00:00",
-    "lastSeenAt": "2026-08-25T03:14:40+00:00",
+    "lastSeenAt": "2026-08-26T03:28:03+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
