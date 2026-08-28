@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-08-27T12:52:47+00:00",
-    "lastSeenAt": "2026-08-27T12:52:47+00:00",
+    "effectiveDate": "2026-08-28T14:24:50+00:00",
+    "lastSeenAt": "2026-08-28T14:24:50+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-08-27T12:52:47+00:00",
-    "lastSeenAt": "2026-08-27T12:52:47+00:00",
+    "effectiveDate": "2026-08-28T14:24:50+00:00",
+    "lastSeenAt": "2026-08-28T14:24:50+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,38 +77,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
-  },
-  {
-    "id": "act-e789e9576010d964",
-    "title": "Meeting Room Booking – AI for Good Global Summit 2026",
-    "summary": "Meeting Room Booking – AI for Good Global Summit 2026 International Telecommunication Union",
-    "sourceUrl": "https://www.itu.int",
-    "sourceDomain": "itu.int",
-    "publisherUrl": "https://www.itu.int",
-    "publisherDomain": "itu.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVl3YllOVzZEVDNVb3VPc2o2bmhpcERBTEtfcjFVV0lPeU5mcVNQclFsakNrVUhHOS1uZ3hqaG9YQTh0WmNDdnAyQ0tWQlN3WldIYXJ5T2JuWlRfZ0psaUdXODdlYXpaMHpOOFNscEFmSkdsSkxiWlY3ZUE2S20wUTI4T00zMkhBQ09vdl9R?oc=5",
-    "sourceName": "ITU AI Open-Web Discovery",
-    "sourceLabelZh": "ITU / AI for Good 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "International Telecommunication Union",
-    "sourceOrgLabel": "International Telecommunication Union",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-08-27T04:32:03+00:00",
-    "effectiveDate": "2026-08-27T04:32:03+00:00",
-    "lastSeenAt": "2026-08-27T12:52:50+00:00",
-    "score": 56,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:meeting,summit"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-0bbad448dacd36f9",
@@ -131,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-08-16T13:03:17+00:00",
     "effectiveDate": "2026-08-16T13:03:17+00:00",
-    "lastSeenAt": "2026-08-27T12:52:50+00:00",
+    "lastSeenAt": "2026-08-28T14:24:52+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -163,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-08-13T07:00:00+00:00",
     "effectiveDate": "2026-08-13T07:00:00+00:00",
-    "lastSeenAt": "2026-08-27T12:52:49+00:00",
+    "lastSeenAt": "2026-08-28T14:24:51+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -195,7 +163,7 @@
     "countries": [],
     "publishedAt": "2026-07-31T07:00:00+00:00",
     "effectiveDate": "2026-07-31T07:00:00+00:00",
-    "lastSeenAt": "2026-08-27T12:52:49+00:00",
+    "lastSeenAt": "2026-08-28T14:24:51+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
