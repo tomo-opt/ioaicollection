@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-09-25T07:57:04+00:00",
-    "lastSeenAt": "2026-09-25T07:57:04+00:00",
+    "effectiveDate": "2026-09-26T07:50:00+00:00",
+    "lastSeenAt": "2026-09-26T07:50:00+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-09-25T07:57:04+00:00",
-    "lastSeenAt": "2026-09-25T07:57:04+00:00",
+    "effectiveDate": "2026-09-26T07:50:00+00:00",
+    "lastSeenAt": "2026-09-26T07:50:00+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -79,36 +79,36 @@
     "discoveryQuery": ""
   },
   {
-    "id": "act-015d5a78eee93636",
-    "title": "Guidance for generative AI in education and research - UNESCO",
-    "summary": "Guidance for generative AI in education and research - UNESCO UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
+    "id": "act-77c1f0b2e8e9f30c",
+    "title": "AI for Good Global Summit 2027",
+    "summary": "AI for Good Global Summit 2027 International Telecommunication Union",
+    "sourceUrl": "https://2027summit.aiforgood.itu.int",
+    "sourceDomain": "2027summit.aiforgood.itu.int",
+    "publisherUrl": "https://2027summit.aiforgood.itu.int",
+    "publisherDomain": "2027summit.aiforgood.itu.int",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDJ0NFhFejNxRTJZZWVJMGM5ckxuS21uYzV4NmllakY1QVZkZHF6YXh0dXROYUtnalBBaGRNMTl5WmpzRkhKdEpqdlVTdFVfdTViR2RNX0cwU2gxU2lUcTNta2VqazBiMVZ0TDVoVGhLZGpsVjZUQm85am5MZGNzeGZxVk0wN3JOWHFIbzh5U1AtMVFiQlE?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5ZkNHZlRoQXdkZS02RGVIck9jTWpQdlVBYmxOZXE2ME83a0ltZXFOc1d1SV9rS0VsbllSc09iQXo4aFdGeXVmVXgzU1hrUQ?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
+    "sourceOrg": "International Telecommunication Union",
+    "sourceOrgLabel": "International Telecommunication Union",
     "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-09-24T16:23:33+00:00",
-    "effectiveDate": "2026-09-24T16:23:33+00:00",
-    "lastSeenAt": "2026-09-25T07:57:05+00:00",
-    "score": 56,
+    "publishedAt": "2026-09-25T15:22:47+00:00",
+    "effectiveDate": "2026-09-25T15:22:47+00:00",
+    "lastSeenAt": "2026-09-26T07:50:02+00:00",
+    "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
-      "ai_cues:ai,generative ai",
-      "action_cues:guidance"
+      "ai_cues:ai",
+      "action_cues:summit"
     ],
     "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-8d85ea8a47a03c9e",
@@ -131,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-09-23T11:07:57+00:00",
     "effectiveDate": "2026-09-23T11:07:57+00:00",
-    "lastSeenAt": "2026-09-25T07:57:05+00:00",
+    "lastSeenAt": "2026-09-26T07:50:01+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -141,38 +141,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-a8cd0f4afe9322f0",
-    "title": "Third meeting of ITU Focus Group on Embodied AI for Multimedia Technologies",
-    "summary": "Third meeting of ITU Focus Group on Embodied AI for Multimedia Technologies AI for Good",
-    "sourceUrl": "https://aiforgood.itu.int",
-    "sourceDomain": "aiforgood.itu.int",
-    "publisherUrl": "https://aiforgood.itu.int",
-    "publisherDomain": "aiforgood.itu.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVl9sRW5rRzJ1VnZGSTRrYVlsbEtlQ01lSThXQ28tVEVjOW9vekRIZGVQWWw0LUJxakpWcS1EelRJNG92VG40ak5OcHNOY2Izb1pUMFI2WlFJdExIMjg5YkxvaWdrUUlDQ0lOTTBzbHk3T1puRkFfc2ZhNWVJQWVtQWF3cFVtUkRQZF9rREhLb3J2ZzNIcWtWOEFIdUdmWF8zbDVpU1NJRXJmMnoz?oc=5",
-    "sourceName": "ITU AI Open-Web Discovery",
-    "sourceLabelZh": "ITU / AI for Good 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "AI for Good",
-    "sourceOrgLabel": "AI for Good",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-09-23T07:00:00+00:00",
-    "effectiveDate": "2026-09-23T07:00:00+00:00",
-    "lastSeenAt": "2026-09-25T07:57:06+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:meeting"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-1d76df2df6a2b987",
@@ -195,7 +163,7 @@
     "countries": [],
     "publishedAt": "2026-09-22T13:59:02+00:00",
     "effectiveDate": "2026-09-22T13:59:02+00:00",
-    "lastSeenAt": "2026-09-25T07:57:06+00:00",
+    "lastSeenAt": "2026-09-26T07:50:02+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -205,6 +173,47 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-e0c1cf3a368eecf1",
+    "title": "CDNET Chair addresses AI and human rights at UN Business and Human Rights regional forum",
+    "summary": "CDNET Chair addresses AI and human rights at UN Business and Human Rights regional forum coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeTR5UnlvUWNTVWFxX2tWMVdpTWJoQmYxRmU1aE1lR1JHbTIzZ0lUbVdzWUJ0T0lsTEtlLTVBM0F1TFQ5NkdHTFQ5TXI0dkhzYjMyWmxwdkt4U2c1MktkLXlGUjZaSDg3X0JFMGdmVklkZVk3WnJKVHNXa1NGYXFOaHpKS3ZTZzluN2VZRXJwMHV2LTNVVTVvT0dCcmdneEVOSm5xZmRFTkJMQzl5NzFwb2FJQXZRb2NlTGlodzRocDEzTTZ1WHdRdDljQXRLNmNHMl81Z25maF8?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-09-18T12:13:48+00:00",
+    "effectiveDate": "2026-09-18T12:13:48+00:00",
+    "lastSeenAt": "2026-09-26T07:50:01+00:00",
+    "score": 74,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:forum"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-d484db17cf2c997a",
@@ -235,7 +244,7 @@
     "countries": [],
     "publishedAt": "2026-09-18T07:33:37+00:00",
     "effectiveDate": "2026-09-18T07:33:37+00:00",
-    "lastSeenAt": "2026-09-25T07:57:05+00:00",
+    "lastSeenAt": "2026-09-26T07:50:01+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -246,5 +255,37 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-568bc8b5d9b30d56",
+    "title": "Digital and AI sovereignty: four evidence-informed cases; background paper",
+    "summary": "Digital and AI sovereignty: four evidence-informed cases; background paper UNESCO Library",
+    "sourceUrl": "https://unesdoc.unesco.org",
+    "sourceDomain": "unesdoc.unesco.org",
+    "publisherUrl": "https://unesdoc.unesco.org",
+    "publisherDomain": "unesdoc.unesco.org",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43d1BIOVMxZnhuYW9sNFdZdXV5bXloVEczTVAtZUJ2TzQ4N1NjcUJRcjZIRkprd3lPNDNXWUpUWGphNklVVEFWaG5DbHBjNzkzWHFuNjdVTHFkMDliOWhr?oc=5",
+    "sourceName": "UNESCO AI Open-Web Discovery",
+    "sourceLabelZh": "UNESCO AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "UNESCO Library",
+    "sourceOrgLabel": "UNESCO Library",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-09-09T05:26:45+00:00",
+    "effectiveDate": "2026-09-09T05:26:45+00:00",
+    "lastSeenAt": "2026-09-26T07:50:01+00:00",
+    "score": 50,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:paper"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   }
 ]
