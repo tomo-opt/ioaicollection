@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-09-28T08:46:44+00:00",
-    "lastSeenAt": "2026-09-28T08:46:44+00:00",
+    "effectiveDate": "2026-09-29T08:41:00+00:00",
+    "lastSeenAt": "2026-09-29T08:41:00+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-09-28T08:46:44+00:00",
-    "lastSeenAt": "2026-09-28T08:46:44+00:00",
+    "effectiveDate": "2026-09-29T08:41:00+00:00",
+    "lastSeenAt": "2026-09-29T08:41:00+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -99,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-09-25T15:22:47+00:00",
     "effectiveDate": "2026-09-25T15:22:47+00:00",
-    "lastSeenAt": "2026-09-28T08:46:46+00:00",
+    "lastSeenAt": "2026-09-29T08:41:02+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-09-23T11:07:57+00:00",
     "effectiveDate": "2026-09-23T11:07:57+00:00",
-    "lastSeenAt": "2026-09-28T08:46:46+00:00",
+    "lastSeenAt": "2026-09-29T08:41:01+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -163,7 +163,7 @@
     "countries": [],
     "publishedAt": "2026-09-22T13:59:02+00:00",
     "effectiveDate": "2026-09-22T13:59:02+00:00",
-    "lastSeenAt": "2026-09-28T08:46:46+00:00",
+    "lastSeenAt": "2026-09-29T08:41:02+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
