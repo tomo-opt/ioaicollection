@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-10-04T08:31:17+00:00",
-    "lastSeenAt": "2026-10-04T08:31:17+00:00",
+    "effectiveDate": "2026-10-05T09:13:06+00:00",
+    "lastSeenAt": "2026-10-05T09:13:06+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-10-04T08:31:17+00:00",
-    "lastSeenAt": "2026-10-04T08:31:17+00:00",
+    "effectiveDate": "2026-10-05T09:13:06+00:00",
+    "lastSeenAt": "2026-10-05T09:13:06+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,38 +77,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
-  },
-  {
-    "id": "act-adfcc0b92cebf022",
-    "title": "The Bureau will develop guidance on the use of digital solutions and artificial intelligence in recognition. What opportunities",
-    "summary": "The Bureau will develop guidance on the use of digital solutions and artificial intelligence in recognition. What opportunities rm.coe.int",
-    "sourceUrl": "https://rm.coe.int",
-    "sourceDomain": "rm.coe.int",
-    "publisherUrl": "https://rm.coe.int",
-    "publisherDomain": "rm.coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVlSWVNHSHJNR0pRZ2pOa2E1RGxNY2ZpZVpidDMzT2ZjZGh5bENFeThYY1Q3YjJUWlVZQXV5X1o1WEJaS0JJbUJzcE9ILXVfRXVQSTZveUxISm9RYmlHV2NfbW5YS0gyc3lUMUZhb2g5VHotQS1VdG5sOHd4aEpUcVlvRTM?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "rm.coe.int",
-    "sourceOrgLabel": "rm.coe.int",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-10-03T08:50:15+00:00",
-    "effectiveDate": "2026-10-03T08:50:15+00:00",
-    "lastSeenAt": "2026-10-04T08:31:18+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:artificial intelligence",
-      "action_cues:guidance"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-d27afd4b6f618ff4",
@@ -131,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-09-28T17:45:55+00:00",
     "effectiveDate": "2026-09-28T17:45:55+00:00",
-    "lastSeenAt": "2026-10-04T08:31:19+00:00",
+    "lastSeenAt": "2026-10-05T09:13:09+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -163,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-09-28T17:45:54+00:00",
     "effectiveDate": "2026-09-28T17:45:54+00:00",
-    "lastSeenAt": "2026-10-04T08:31:19+00:00",
+    "lastSeenAt": "2026-10-05T09:13:09+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -203,7 +171,7 @@
     "countries": [],
     "publishedAt": "2026-09-28T00:24:00+00:00",
     "effectiveDate": "2026-09-28T00:24:00+00:00",
-    "lastSeenAt": "2026-10-04T08:31:18+00:00",
+    "lastSeenAt": "2026-10-05T09:13:07+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -236,7 +204,7 @@
     "countries": [],
     "publishedAt": "2026-09-25T15:22:47+00:00",
     "effectiveDate": "2026-09-25T15:22:47+00:00",
-    "lastSeenAt": "2026-10-04T08:31:19+00:00",
+    "lastSeenAt": "2026-10-05T09:13:09+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -268,7 +236,7 @@
     "countries": [],
     "publishedAt": "2026-09-23T07:00:00+00:00",
     "effectiveDate": "2026-09-23T07:00:00+00:00",
-    "lastSeenAt": "2026-10-04T08:31:19+00:00",
+    "lastSeenAt": "2026-10-05T09:13:09+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
