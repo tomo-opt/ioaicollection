@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-10-06T09:05:39+00:00",
-    "lastSeenAt": "2026-10-06T09:05:39+00:00",
+    "effectiveDate": "2026-10-07T08:49:17+00:00",
+    "lastSeenAt": "2026-10-07T08:49:17+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-10-06T09:05:39+00:00",
-    "lastSeenAt": "2026-10-06T09:05:39+00:00",
+    "effectiveDate": "2026-10-07T08:49:17+00:00",
+    "lastSeenAt": "2026-10-07T08:49:17+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -77,6 +77,47 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": ""
+  },
+  {
+    "id": "act-569d112c8fae0854",
+    "title": "Council of Europe and Microsoft sign framework cooperation agreement to promote human rights in the age of AI",
+    "summary": "Council of Europe and Microsoft sign framework cooperation agreement to promote human rights in the age of AI Council of Europe",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS0swRmVPQTJ4R1piRm9TSnZwOUxEbEE1OWplenF6czk0NUtQcmZfRjNLVWJBT1dnSjVzTmJFbzBqcmF2WlZDTlQ5QUdySDByUDZDS0h0ZHdYN25YUEgxLXhsQ1FUZ3UwMlpVQVcwM3h3cmExRXZlUlNQbEFhTXNOb3YwN2tsLXVfQ0lKVExkdlBMSGdfTnVVbzZRX3MxTnlMM2I0Nm1fcF8tRzBCTXdXdVJrNnpMeXZlRTg2eWlFTV9ZcDAtclpxR0hHQkYzdllwWUFZYUl3X3NmbUVlRGc?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "Council of Europe",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-10-06T15:36:32+00:00",
+    "effectiveDate": "2026-10-06T15:36:32+00:00",
+    "lastSeenAt": "2026-10-07T08:49:18+00:00",
+    "score": 74,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:framework"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-adfcc0b92cebf022",
@@ -99,7 +140,7 @@
     "countries": [],
     "publishedAt": "2026-10-03T08:50:15+00:00",
     "effectiveDate": "2026-10-03T08:50:15+00:00",
-    "lastSeenAt": "2026-10-06T09:05:40+00:00",
+    "lastSeenAt": "2026-10-07T08:49:18+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,7 +172,7 @@
     "countries": [],
     "publishedAt": "2026-09-28T17:45:55+00:00",
     "effectiveDate": "2026-09-28T17:45:55+00:00",
-    "lastSeenAt": "2026-10-06T09:05:41+00:00",
+    "lastSeenAt": "2026-10-07T08:49:18+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -141,47 +182,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-47738f435378c419",
-    "title": "Watch live: 2026 AI Policy Summit",
-    "summary": "Watch live: 2026 AI Policy Summit coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1JjelNObVl5dlBtb0RzR0dlWnNEZ2VlSDVhaEl1V1JiOWsycERMVmJHYVJLcUl3Q25WZzhtaVVLNG9LWnNyY1NPMUV3ZHRzWWVQeFJIY1A5UnZYYkU5YndRZ2FtdW5zOTM2bmhxWUpOdVl1cFpObU82S01FR3B4WHJrYUdyX190YnB6eFkxZEJsQTRHemY0?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-09-28T00:24:00+00:00",
-    "effectiveDate": "2026-09-28T00:24:00+00:00",
-    "lastSeenAt": "2026-10-06T09:05:40+00:00",
-    "score": 80,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:policy,summit"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-77c1f0b2e8e9f30c",
@@ -204,7 +204,7 @@
     "countries": [],
     "publishedAt": "2026-09-25T15:22:47+00:00",
     "effectiveDate": "2026-09-25T15:22:47+00:00",
-    "lastSeenAt": "2026-10-06T09:05:41+00:00",
+    "lastSeenAt": "2026-10-07T08:49:19+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -236,7 +236,7 @@
     "countries": [],
     "publishedAt": "2026-09-23T07:00:00+00:00",
     "effectiveDate": "2026-09-23T07:00:00+00:00",
-    "lastSeenAt": "2026-10-06T09:05:41+00:00",
+    "lastSeenAt": "2026-10-07T08:49:18+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -268,7 +268,7 @@
     "countries": [],
     "publishedAt": "2026-05-11T07:00:00+00:00",
     "effectiveDate": "2026-05-11T07:00:00+00:00",
-    "lastSeenAt": "2026-10-06T09:05:41+00:00",
+    "lastSeenAt": "2026-10-07T08:49:18+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
