@@ -1,5 +1,36 @@
 [
   {
+    "id": "act-c6fe2865dab18bcd",
+    "title": "Collaborative AI frameworks",
+    "summary": "Collaborative AI frameworks International Telecommunication Union",
+    "sourceUrl": "https://www.itu.int",
+    "sourceDomain": "itu.int",
+    "publisherUrl": "https://www.itu.int",
+    "publisherDomain": "itu.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KN0h2UndodE0tdEZuNVEwOE5uenNTNzVyd2VBVktpUWwySmRKVWJURkJjalZ5WE5FRDkxdkpjQlJ1UWRWLTlFX1VPQ1BvbkJpMk11Y0dMUmJCUGlKN0FQa2ctMGVHV0pvRTFPQ19xREFfQjNJ?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "International Telecommunication Union",
+    "sourceOrgLabel": "International Telecommunication Union",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-10-08T12:08:34+00:00",
+    "effectiveDate": "2026-10-08T12:08:34+00:00",
+    "lastSeenAt": "2026-10-09T09:14:05+00:00",
+    "score": 42,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
     "id": "act-1d27989efe2e50d9",
     "title": "OpenAI AI Agents Cause Data Breaches and Disruptions",
     "summary": "OpenAI AI Agents Cause Data Breaches and Disruptions OECD AI Policy Observatory",
@@ -20,7 +51,7 @@
     "countries": [],
     "publishedAt": "2026-10-07T22:59:34+00:00",
     "effectiveDate": "2026-10-07T22:59:34+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -52,7 +83,7 @@
     "countries": [],
     "publishedAt": "2026-10-07T16:46:40+00:00",
     "effectiveDate": "2026-10-07T16:46:40+00:00",
-    "lastSeenAt": "2026-10-08T09:07:37+00:00",
+    "lastSeenAt": "2026-10-09T09:14:05+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -84,7 +115,7 @@
     "countries": [],
     "publishedAt": "2026-10-06T17:26:36+00:00",
     "effectiveDate": "2026-10-06T17:26:36+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -116,7 +147,7 @@
     "countries": [],
     "publishedAt": "2026-10-06T16:57:26+00:00",
     "effectiveDate": "2026-10-06T16:57:26+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -148,7 +179,7 @@
     "countries": [],
     "publishedAt": "2026-10-05T07:00:00+00:00",
     "effectiveDate": "2026-10-05T07:00:00+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -158,37 +189,6 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
-  },
-  {
-    "id": "act-26080dd16e829e9e",
-    "title": "Start with defining the problem, not the algorithm: Designing AI for education",
-    "summary": "Start with defining the problem, not the algorithm: Designing AI for education UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUJHbUFERzhJWkFqWTJXa2NncTQzWDlITVF2T2YxYWFSbzBpUFgwOGN2QmV5R3NYajZLdmU1bG05WjFMYVozVnZqaElmX25veTdHNWU0c1BLYXZYQXgyRDF2VnhGTkwtMm0zUkVwbHBPMkZFX3ZyYXRwSXpRLTJlY1hzM2Fzb1VaVzI2SHJINkQ2blQ2TjZuLTdR?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-10-05T07:00:00+00:00",
-    "effectiveDate": "2026-10-05T07:00:00+00:00",
-    "lastSeenAt": "2026-10-08T09:07:37+00:00",
-    "score": 42,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-4cdae79bcb200cd0",
@@ -211,7 +211,7 @@
     "countries": [],
     "publishedAt": "2026-10-05T07:00:00+00:00",
     "effectiveDate": "2026-10-05T07:00:00+00:00",
-    "lastSeenAt": "2026-10-08T09:07:37+00:00",
+    "lastSeenAt": "2026-10-09T09:14:05+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -250,7 +250,7 @@
     "countries": [],
     "publishedAt": "2026-10-02T22:56:48+00:00",
     "effectiveDate": "2026-10-02T22:56:48+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -262,15 +262,15 @@
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
-    "id": "act-c9485141d2229ae1",
-    "title": "Transparency Report - TELUS",
-    "summary": "Transparency Report - TELUS OECD AI Policy Observatory",
+    "id": "act-7e3b1dcd54621e72",
+    "title": "Widespread Unauthorized AI Access to Sensitive Data in Enterprises",
+    "summary": "Widespread Unauthorized AI Access to Sensitive Data in Enterprises OECD AI Policy Observatory",
     "sourceUrl": "https://oecd.ai",
     "sourceDomain": "oecd.ai",
     "publisherUrl": "https://oecd.ai",
     "publisherDomain": "oecd.ai",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52cHNCQm8tczZfN2hJV2MteFhQM082QnFpclM1TUF2dHVNN1A3QmFRVzFFeDM2dlFJbGtpYnpXbmpnZDdRVWNkSjRZajNqazJjT3BJNTV3?oc=5",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHcmtfT3Z0TWlkbUNmM1FQYnljSHh4TWhqNWJjaTR6bm10dEczc29zVnVuWGgtQXBZcDlObmtIb082X0ZTLWM0RGI2V2RFUWI4cTNQZFRrTQ?oc=5",
     "sourceName": "OECD AI Open-Web Discovery",
     "sourceLabelZh": "OECD.AI 官方站发现",
     "sourceType": "trusted_domain_discovery",
@@ -280,47 +280,15 @@
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-10-02T07:34:00+00:00",
-    "effectiveDate": "2026-10-02T07:34:00+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
-    "score": 56,
+    "publishedAt": "2026-10-02T08:55:04+00:00",
+    "effectiveDate": "2026-10-02T08:55:04+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
+    "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
       "ai_cues:ai",
-      "action_cues:policy,report"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
-  },
-  {
-    "id": "act-fb8fb7ad14348505",
-    "title": "Transparency Report - Infosys",
-    "summary": "Transparency Report - Infosys OECD AI Policy Observatory",
-    "sourceUrl": "https://oecd.ai",
-    "sourceDomain": "oecd.ai",
-    "publisherUrl": "https://oecd.ai",
-    "publisherDomain": "oecd.ai",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOYUE4MnYzMkE4c1V6WG42dkQ4dVkxRjc3RW9FUHNsNGd0WktQb2dJSjF2aGNiT1ZzZ09laGNmaW9WdU5FdGd2clV0VWw3QWJIeVdmZnZ3?oc=5",
-    "sourceName": "OECD AI Open-Web Discovery",
-    "sourceLabelZh": "OECD.AI 官方站发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "OECD AI Policy Observatory",
-    "sourceOrgLabel": "OECD AI Policy Observatory",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-10-02T07:34:00+00:00",
-    "effectiveDate": "2026-10-02T07:34:00+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
-    "score": 56,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:policy,report"
+      "action_cues:policy"
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
@@ -346,7 +314,7 @@
     "countries": [],
     "publishedAt": "2026-10-02T07:00:00+00:00",
     "effectiveDate": "2026-10-02T07:00:00+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -378,7 +346,7 @@
     "countries": [],
     "publishedAt": "2026-09-30T17:39:52+00:00",
     "effectiveDate": "2026-09-30T17:39:52+00:00",
-    "lastSeenAt": "2026-10-08T09:07:37+00:00",
+    "lastSeenAt": "2026-10-09T09:14:05+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -409,7 +377,7 @@
     "countries": [],
     "publishedAt": "2026-09-30T17:39:51+00:00",
     "effectiveDate": "2026-09-30T17:39:51+00:00",
-    "lastSeenAt": "2026-10-08T09:07:37+00:00",
+    "lastSeenAt": "2026-10-09T09:14:05+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -440,7 +408,7 @@
     "countries": [],
     "publishedAt": "2026-09-30T11:22:22+00:00",
     "effectiveDate": "2026-09-30T11:22:22+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -480,7 +448,7 @@
     "countries": [],
     "publishedAt": "2026-09-28T14:01:39+00:00",
     "effectiveDate": "2026-09-28T14:01:39+00:00",
-    "lastSeenAt": "2026-10-08T09:07:36+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -490,5 +458,37 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-0e816dcb8557d666",
+    "title": "FLEX (Fairness Benchmark in LLM under Extreme Scenarios)",
+    "summary": "FLEX (Fairness Benchmark in LLM under Extreme Scenarios) OECD AI Policy Observatory",
+    "sourceUrl": "https://oecd.ai",
+    "sourceDomain": "oecd.ai",
+    "publisherUrl": "https://oecd.ai",
+    "publisherDomain": "oecd.ai",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWmFoNENFTjBKdTdUNzgzN0RlQ19QN0xlNGtWQTZ2dlBJSVp2OUZqNUhjdVgwUTkyMFZ2OC1zaklFWnJIbXlpczhmUUZ6aEVhTlM2ODg0TTZrVXJrNHZPVllyM2JCZTlfOWtXWHpSNm52dWRlSEhwa0hCRGtWS0FqeFgwVjgxNDBJaFRDUFBoemV5VDM2YkhEekhMTzFyUjQ?oc=5",
+    "sourceName": "OECD AI Open-Web Discovery",
+    "sourceLabelZh": "OECD.AI 官方站发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "OECD AI Policy Observatory",
+    "sourceOrgLabel": "OECD AI Policy Observatory",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-09-27T02:30:49+00:00",
+    "effectiveDate": "2026-09-27T02:30:49+00:00",
+    "lastSeenAt": "2026-10-09T09:14:04+00:00",
+    "score": 50,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:policy"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
   }
 ]
