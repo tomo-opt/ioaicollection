@@ -20,7 +20,7 @@
     "countries": [],
     "publishedAt": "2026-10-08T12:08:34+00:00",
     "effectiveDate": "2026-10-08T12:08:34+00:00",
-    "lastSeenAt": "2026-10-09T09:14:05+00:00",
+    "lastSeenAt": "2026-10-10T08:38:07+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -29,38 +29,6 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-1d27989efe2e50d9",
-    "title": "OpenAI AI Agents Cause Data Breaches and Disruptions",
-    "summary": "OpenAI AI Agents Cause Data Breaches and Disruptions OECD AI Policy Observatory",
-    "sourceUrl": "https://oecd.ai",
-    "sourceDomain": "oecd.ai",
-    "publisherUrl": "https://oecd.ai",
-    "publisherDomain": "oecd.ai",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HbGlRRjBhMlJPbVlfSnpMdlNuWmJjNmpidzJGQXdaTURhRUFQX2U3eDdqNE13S1h1Mzlvd29NWkJoSGJnUF8wY1pSMUw3bXRkVUpocW1kaw?oc=5",
-    "sourceName": "OECD AI Open-Web Discovery",
-    "sourceLabelZh": "OECD.AI 官方站发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "OECD AI Policy Observatory",
-    "sourceOrgLabel": "OECD AI Policy Observatory",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-10-07T22:59:34+00:00",
-    "effectiveDate": "2026-10-07T22:59:34+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:policy"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
   },
   {
     "id": "act-d2e87cba75d9a5c7",
@@ -83,13 +51,44 @@
     "countries": [],
     "publishedAt": "2026-10-07T16:46:40+00:00",
     "effectiveDate": "2026-10-07T16:46:40+00:00",
-    "lastSeenAt": "2026-10-09T09:14:05+00:00",
+    "lastSeenAt": "2026-10-10T08:38:07+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
       "ai_cues:ai,artificial intelligence",
       "action_cues:policy"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-5c19fd683643b67f",
+    "title": "Why we were at AI for Good: grounding artificial intelligence in knowledge you can trust",
+    "summary": "Why we were at AI for Good: grounding artificial intelligence in knowledge you can trust AI for Good",
+    "sourceUrl": "https://aiforgood.itu.int",
+    "sourceDomain": "aiforgood.itu.int",
+    "publisherUrl": "https://aiforgood.itu.int",
+    "publisherDomain": "aiforgood.itu.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHotclJ0Y1NOeGF1ZXBJOHkxWGZwT1VMVVIyZU5RaFBYb29rN2hOUU44STZMemN2OFpYUVZSUjRSdlZTQ1ZGQzdPaE1WaWtFT0Z5S01xdHRYTkRpeUVrSWpBajhYYXUzMHVPVm5wTFN0eG1Wd3dCZlJmdm14VWQwUnk1cUlmMm9HTEJtcmdtN3piTFVjMmhkN2dNUlB2SmxNTEs4cFdSLVphR2NKck5EN0xqWUE?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "AI for Good",
+    "sourceOrgLabel": "AI for Good",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-10-07T07:00:00+00:00",
+    "effectiveDate": "2026-10-07T07:00:00+00:00",
+    "lastSeenAt": "2026-10-10T08:38:07+00:00",
+    "score": 48,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai,artificial intelligence"
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
@@ -115,7 +114,7 @@
     "countries": [],
     "publishedAt": "2026-10-06T17:26:36+00:00",
     "effectiveDate": "2026-10-06T17:26:36+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -147,7 +146,7 @@
     "countries": [],
     "publishedAt": "2026-10-06T16:57:26+00:00",
     "effectiveDate": "2026-10-06T16:57:26+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -179,7 +178,7 @@
     "countries": [],
     "publishedAt": "2026-10-05T07:00:00+00:00",
     "effectiveDate": "2026-10-05T07:00:00+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -211,7 +210,7 @@
     "countries": [],
     "publishedAt": "2026-10-05T07:00:00+00:00",
     "effectiveDate": "2026-10-05T07:00:00+00:00",
-    "lastSeenAt": "2026-10-09T09:14:05+00:00",
+    "lastSeenAt": "2026-10-10T08:38:07+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -220,46 +219,6 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-74fcc26fe32acfbf",
-    "title": "Commissioner for Human Rights to participate in panel discussion on human rights and AI",
-    "summary": "Commissioner for Human Rights to participate in panel discussion on human rights and AI www.coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSEx4RkRTaEhaTXY3SDhDQloyT3hUVmVITVhQUlNoUUdRRWlvZDJBQjRzUTFwdWRiYi11Qm5RZlRPOFRWUGtVSFNsU2NjVG9QTkhNU2JLamU2Z3B4QmZKSE1hajVNVDZGS1RBakY3QlFJMnk1Y0RGSnRlM25TeG5QUTJaLUZHS1JRWWloMlh4aHlQNVU2czJSbHN2ekpYa2FicmJSRGU4TmFFS3l5UFROTUhGVlcyQnFpUzNxTTJUc0I?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "www.coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-10-02T22:56:48+00:00",
-    "effectiveDate": "2026-10-02T22:56:48+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
-    "score": 66,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-7e3b1dcd54621e72",
@@ -282,13 +241,77 @@
     "countries": [],
     "publishedAt": "2026-10-02T08:55:04+00:00",
     "effectiveDate": "2026-10-02T08:55:04+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
       "ai_cues:ai",
       "action_cues:policy"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
+  },
+  {
+    "id": "act-c9485141d2229ae1",
+    "title": "Transparency Report - TELUS",
+    "summary": "Transparency Report - TELUS OECD AI Policy Observatory",
+    "sourceUrl": "https://oecd.ai",
+    "sourceDomain": "oecd.ai",
+    "publisherUrl": "https://oecd.ai",
+    "publisherDomain": "oecd.ai",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52cHNCQm8tczZfN2hJV2MteFhQM082QnFpclM1TUF2dHVNN1A3QmFRVzFFeDM2dlFJbGtpYnpXbmpnZDdRVWNkSjRZajNqazJjT3BJNTV3?oc=5",
+    "sourceName": "OECD AI Open-Web Discovery",
+    "sourceLabelZh": "OECD.AI 官方站发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "OECD AI Policy Observatory",
+    "sourceOrgLabel": "OECD AI Policy Observatory",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-10-02T07:34:00+00:00",
+    "effectiveDate": "2026-10-02T07:34:00+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
+    "score": 56,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:policy,report"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
+  },
+  {
+    "id": "act-fb8fb7ad14348505",
+    "title": "Transparency Report - Infosys",
+    "summary": "Transparency Report - Infosys OECD AI Policy Observatory",
+    "sourceUrl": "https://oecd.ai",
+    "sourceDomain": "oecd.ai",
+    "publisherUrl": "https://oecd.ai",
+    "publisherDomain": "oecd.ai",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOYUE4MnYzMkE4c1V6WG42dkQ4dVkxRjc3RW9FUHNsNGd0WktQb2dJSjF2aGNiT1ZzZ09laGNmaW9WdU5FdGd2clV0VWw3QWJIeVdmZnZ3?oc=5",
+    "sourceName": "OECD AI Open-Web Discovery",
+    "sourceLabelZh": "OECD.AI 官方站发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "OECD AI Policy Observatory",
+    "sourceOrgLabel": "OECD AI Policy Observatory",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-10-02T07:34:00+00:00",
+    "effectiveDate": "2026-10-02T07:34:00+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
+    "score": 56,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:policy,report"
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
@@ -314,7 +337,7 @@
     "countries": [],
     "publishedAt": "2026-10-02T07:00:00+00:00",
     "effectiveDate": "2026-10-02T07:00:00+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -346,7 +369,7 @@
     "countries": [],
     "publishedAt": "2026-09-30T17:39:52+00:00",
     "effectiveDate": "2026-09-30T17:39:52+00:00",
-    "lastSeenAt": "2026-10-09T09:14:05+00:00",
+    "lastSeenAt": "2026-10-10T08:38:07+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -377,7 +400,7 @@
     "countries": [],
     "publishedAt": "2026-09-30T17:39:51+00:00",
     "effectiveDate": "2026-09-30T17:39:51+00:00",
-    "lastSeenAt": "2026-10-09T09:14:05+00:00",
+    "lastSeenAt": "2026-10-10T08:38:07+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -386,38 +409,6 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-23029771f8270934",
-    "title": "Jonathan Salter : AI Expert",
-    "summary": "Jonathan Salter : AI Expert OECD AI Policy Observatory",
-    "sourceUrl": "https://oecd.ai",
-    "sourceDomain": "oecd.ai",
-    "publisherUrl": "https://oecd.ai",
-    "publisherDomain": "oecd.ai",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DRXlwZTMyVWl0MTlwZ3JyQVNMbFEtd1EyLXJvY3B3em9Gekdlb0loZFFWVEtKeGY4ZkdDTzZkS3NRTXJ1N2tjRERYYUUwMnk2OGZBdjVn?oc=5",
-    "sourceName": "OECD AI Open-Web Discovery",
-    "sourceLabelZh": "OECD.AI 官方站发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "OECD AI Policy Observatory",
-    "sourceOrgLabel": "OECD AI Policy Observatory",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-09-30T11:22:22+00:00",
-    "effectiveDate": "2026-09-30T11:22:22+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:policy"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
   },
   {
     "id": "act-6f158029440ecf63",
@@ -448,7 +439,7 @@
     "countries": [],
     "publishedAt": "2026-09-28T14:01:39+00:00",
     "effectiveDate": "2026-09-28T14:01:39+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -480,7 +471,7 @@
     "countries": [],
     "publishedAt": "2026-09-27T02:30:49+00:00",
     "effectiveDate": "2026-09-27T02:30:49+00:00",
-    "lastSeenAt": "2026-10-09T09:14:04+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -490,5 +481,45 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
+  },
+  {
+    "id": "act-318d96e52486a646",
+    "title": "AI healthcare - addressing risks, supporting healthcare professionals, protecting patients",
+    "summary": "AI healthcare - addressing risks, supporting healthcare professionals, protecting patients www.coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYkxvVGp0WmNUSXZzVi1sX0k5N25BVWlULURpTzRLVDNwbFpQVENXREs4bnJlSHVYcm5BLTJIeFE5aEZpUjY3Um41TC1jTXVwc25ucnZCeDFjOUlEVWNHWlNzNmwyc3Q2YXgxZ1hCX1gtb3FUN0t3eTVXUUF2YTRvVS1idzhWRHBqQVR0elFSRG0yU1NxRmZ4YzVYM2k3OGpwU0ZqaG5aUUV2LUFaMVRVNHgxVGZoeXAtUVZHc3BabmFUZlFBSHA4LWJDTzY5Qzc4SE5XdDU4N3E1djd0?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "www.coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-09-23T07:00:00+00:00",
+    "effectiveDate": "2026-09-23T07:00:00+00:00",
+    "lastSeenAt": "2026-10-10T08:38:06+00:00",
+    "score": 66,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:ai"
+    ],
+    "reviewStatus": "review",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   }
 ]
