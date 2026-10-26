@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-10-25T07:39:50+00:00",
-    "lastSeenAt": "2026-10-25T07:39:50+00:00",
+    "effectiveDate": "2026-10-26T07:54:07+00:00",
+    "lastSeenAt": "2026-10-26T07:54:07+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-10-25T07:39:50+00:00",
-    "lastSeenAt": "2026-10-25T07:39:50+00:00",
+    "effectiveDate": "2026-10-26T07:54:07+00:00",
+    "lastSeenAt": "2026-10-26T07:54:07+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -99,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-10-20T07:00:00+00:00",
     "effectiveDate": "2026-10-20T07:00:00+00:00",
-    "lastSeenAt": "2026-10-25T07:39:51+00:00",
+    "lastSeenAt": "2026-10-26T07:54:08+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-10-20T07:00:00+00:00",
     "effectiveDate": "2026-10-20T07:00:00+00:00",
-    "lastSeenAt": "2026-10-25T07:39:51+00:00",
+    "lastSeenAt": "2026-10-26T07:54:08+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -143,9 +143,9 @@
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   },
   {
-    "id": "act-6691756bd4f4689b",
-    "title": "ITU-UNESCO capacity development programme on AI & digital transformation – ITU Academy",
-    "summary": "ITU-UNESCO capacity development programme on AI & digital transformation – ITU Academy International Telecommunication Union",
+    "id": "act-feabf72873a47b09",
+    "title": "ITU-UNESCO capacity development programme on AI & digital transformation",
+    "summary": "ITU-UNESCO capacity development programme on AI & digital transformation International Telecommunication Union",
     "sourceUrl": "https://www.itu.int",
     "sourceDomain": "itu.int",
     "publisherUrl": "https://www.itu.int",
@@ -161,9 +161,9 @@
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-10-19T20:06:41+00:00",
-    "effectiveDate": "2026-10-19T20:06:41+00:00",
-    "lastSeenAt": "2026-10-25T07:39:52+00:00",
+    "publishedAt": "2026-10-19T11:50:39+00:00",
+    "effectiveDate": "2026-10-19T11:50:39+00:00",
+    "lastSeenAt": "2026-10-26T07:54:09+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -173,6 +173,38 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-e22ee5d458d2e654",
+    "title": "The 4th global forum on the ethics of AI: recap",
+    "summary": "The 4th global forum on the ethics of AI: recap UNESCO Digital Library",
+    "sourceUrl": "https://unesdoc.unesco.org",
+    "sourceDomain": "unesdoc.unesco.org",
+    "publisherUrl": "https://unesdoc.unesco.org",
+    "publisherDomain": "unesdoc.unesco.org",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XY2NjdG5JMnIzT2gzMG5vbHRnWUZEQWhjSUpUYkt3ZUxmNGptUGZaZnBYNy0xWnVsaFZWMDRVYi1iYUg3akFHOS1RVy1vcXJYTGhoZElZMVMtTXZHbE9N?oc=5",
+    "sourceName": "UNESCO AI Open-Web Discovery",
+    "sourceLabelZh": "UNESCO AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "UNESCO Digital Library",
+    "sourceOrgLabel": "UNESCO Digital Library",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-10-16T19:15:37+00:00",
+    "effectiveDate": "2026-10-16T19:15:37+00:00",
+    "lastSeenAt": "2026-10-26T07:54:08+00:00",
+    "score": 50,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:forum"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-83509c39c053b1a5",
@@ -203,7 +235,7 @@
     "countries": [],
     "publishedAt": "2026-05-15T07:00:00+00:00",
     "effectiveDate": "2026-05-15T07:00:00+00:00",
-    "lastSeenAt": "2026-10-25T07:39:51+00:00",
+    "lastSeenAt": "2026-10-26T07:54:08+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
