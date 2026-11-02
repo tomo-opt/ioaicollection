@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-11-01T09:22:48+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
+    "effectiveDate": "2026-11-02T09:37:45+00:00",
+    "lastSeenAt": "2026-11-02T09:37:45+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-11-01T09:22:48+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
+    "effectiveDate": "2026-11-02T09:37:45+00:00",
+    "lastSeenAt": "2026-11-02T09:37:45+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -107,7 +107,7 @@
     "countries": [],
     "publishedAt": "2026-10-30T18:37:02+00:00",
     "effectiveDate": "2026-10-30T18:37:02+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -140,45 +140,13 @@
     "countries": [],
     "publishedAt": "2026-10-27T10:42:14+00:00",
     "effectiveDate": "2026-10-27T10:42:14+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
       "ai_cues:ai",
       "action_cues:webinar"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-015d5a78eee93636",
-    "title": "Guidance for generative AI in education and research - UNESCO",
-    "summary": "Guidance for generative AI in education and research - UNESCO UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDJ0NFhFejNxRTJZZWVJMGM5ckxuS21uYzV4NmllakY1QVZkZHF6YXh0dXROYUtnalBBaGRNMTl5WmpzRkhKdEpqdlVTdFVfdTViR2RNX0cwU2gxU2lUcTNta2VqazBiMVZ0TDVoVGhLZGpsVjZUQm85am5MZGNzeGZxVk0wN3JOWHFIbzh5U1AtMVFiQlE?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-10-18T13:31:13+00:00",
-    "effectiveDate": "2026-10-18T13:31:13+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
-    "score": 56,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai,generative ai",
-      "action_cues:guidance"
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
@@ -204,7 +172,7 @@
     "countries": [],
     "publishedAt": "2026-10-16T19:15:37+00:00",
     "effectiveDate": "2026-10-16T19:15:37+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -236,7 +204,7 @@
     "countries": [],
     "publishedAt": "2026-07-20T07:00:00+00:00",
     "effectiveDate": "2026-07-20T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:50+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",

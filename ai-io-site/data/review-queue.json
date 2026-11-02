@@ -20,7 +20,7 @@
     "countries": [],
     "publishedAt": "2026-10-30T13:10:52+00:00",
     "effectiveDate": "2026-10-30T13:10:52+00:00",
-    "lastSeenAt": "2026-11-01T09:22:50+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -31,44 +31,36 @@
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
-    "id": "act-08f1cb01e6a9816e",
-    "title": "Artificial Intelligence, Media and Information Integrity in Bosnia and Herzegovina",
-    "summary": "Artificial Intelligence, Media and Information Integrity in Bosnia and Herzegovina www.coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
+    "id": "act-f3aa1b51573207c3",
+    "title": "Meta's AI Smart Glasses Spark Privacy Violations and Senate Inquiry",
+    "summary": "Meta's AI Smart Glasses Spark Privacy Violations and Senate Inquiry OECD AI Policy Observatory",
+    "sourceUrl": "https://oecd.ai",
+    "sourceDomain": "oecd.ai",
+    "publisherUrl": "https://oecd.ai",
+    "publisherDomain": "oecd.ai",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2hORFJVbERVb0wzdHpNYTE5VWY3Q2lDdXBRTnRMcDlDbTJVdE0tem1lMHM3QXdTUkU0U1hYVE8waEYzTnkxQVlXdmo1cXBWUTdjTkxTU0FQak5wNHd6TmxKa0pTXzlBMUZfUmZQQzZkSDUxWk5vWmgzMmdEVzZINGVyc1JYQnUyaXZyUk85bm9sQW5SMmR4SXJ3ZVJPWWVQek95eGVOYWlpZnBaUTR0SFBCZjdYLWpqN3RR?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9qU1lQemJUTWEtbTZaQmZyQzZQMDZnb2YtcmgyUkdaaFRHdE55Y0MxRk9xRWR6NGw1c1Y1bVhqZWZ3YnR0NzRtcjkxXzRFWC1tU0xlNXhvbw?oc=5",
+    "sourceName": "OECD AI Open-Web Discovery",
+    "sourceLabelZh": "OECD.AI 官方站发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "www.coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
+    "sourceOrg": "OECD AI Policy Observatory",
+    "sourceOrgLabel": "OECD AI Policy Observatory",
+    "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-10-28T18:32:55+00:00",
-    "effectiveDate": "2026-10-28T18:32:55+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
-    "score": 66,
+    "publishedAt": "2026-10-29T07:00:00+00:00",
+    "effectiveDate": "2026-10-29T07:00:00+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
+    "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
-      "official_domain_match",
       "official_or_subdomain_match",
-      "ai_cues:artificial intelligence"
+      "ai_cues:ai",
+      "action_cues:policy"
     ],
     "reviewStatus": "review",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
+    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
   },
   {
     "id": "act-7a0e8d2ea5cd135b",
@@ -91,7 +83,7 @@
     "countries": [],
     "publishedAt": "2026-10-28T15:12:36+00:00",
     "effectiveDate": "2026-10-28T15:12:36+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -123,7 +115,7 @@
     "countries": [],
     "publishedAt": "2026-10-28T11:49:18+00:00",
     "effectiveDate": "2026-10-28T11:49:18+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -163,7 +155,7 @@
     "countries": [],
     "publishedAt": "2026-10-23T15:30:26+00:00",
     "effectiveDate": "2026-10-23T15:30:26+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -195,7 +187,7 @@
     "countries": [],
     "publishedAt": "2026-10-22T07:00:00+00:00",
     "effectiveDate": "2026-10-22T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:50+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -226,7 +218,7 @@
     "countries": [],
     "publishedAt": "2026-10-21T16:30:03+00:00",
     "effectiveDate": "2026-10-21T16:30:03+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -257,7 +249,7 @@
     "countries": [],
     "publishedAt": "2026-10-21T07:00:00+00:00",
     "effectiveDate": "2026-10-21T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -289,7 +281,7 @@
     "countries": [],
     "publishedAt": "2026-10-20T16:17:19+00:00",
     "effectiveDate": "2026-10-20T16:17:19+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -328,7 +320,7 @@
     "countries": [],
     "publishedAt": "2026-10-19T19:22:15+00:00",
     "effectiveDate": "2026-10-19T19:22:15+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -360,7 +352,7 @@
     "countries": [],
     "publishedAt": "2026-10-19T07:00:00+00:00",
     "effectiveDate": "2026-10-19T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:50+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 48,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -391,7 +383,7 @@
     "countries": [],
     "publishedAt": "2026-10-17T15:16:45+00:00",
     "effectiveDate": "2026-10-17T15:16:45+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -422,7 +414,7 @@
     "countries": [],
     "publishedAt": "2026-10-16T07:00:00+00:00",
     "effectiveDate": "2026-10-16T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -436,7 +428,7 @@
   {
     "id": "act-367bbf34e266ff6a",
     "title": "ASSET: AI for skills, sustainability and training",
-    "summary": "ASSET: AI for skills, sustainability and training Unesco",
+    "summary": "ASSET: AI for skills, sustainability and training UNESCO",
     "sourceUrl": "https://connect.unevoc.unesco.org",
     "sourceDomain": "connect.unevoc.unesco.org",
     "publisherUrl": "https://connect.unevoc.unesco.org",
@@ -446,15 +438,15 @@
     "sourceName": "UNESCO AI Open-Web Discovery",
     "sourceLabelZh": "UNESCO AI 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Unesco",
-    "sourceOrgLabel": "Unesco",
+    "sourceOrg": "UNESCO",
+    "sourceOrgLabel": "UNESCO",
     "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
     "publishedAt": "2026-10-14T22:54:51+00:00",
     "effectiveDate": "2026-10-14T22:54:51+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -464,46 +456,6 @@
     ],
     "reviewStatus": "review",
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-df437c4c525d153b",
-    "title": "Taming the technology: AI, human rights, and the future of justice",
-    "summary": "Taming the technology: AI, human rights, and the future of justice www.coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzN1elF2c3JtTDJTYzAtb0hvZWJYMzYxV0VhMGZNazFKY0RHYUFhVEV3eDJ0d0xTQUZXb0JMU25mRWFNRWxEWEx2ZkZ6Y29jQUhwbUlEY2NsWGdlakpTdVpKaDlmZFR4UTJkNjZzZV9RbC1yUkJEMFlLa0RKRTNldkJWbExOVE96V3kxR1Y2UlJzT2UwdzQ4NTRFMmg2M3lzVWpOOEREWDc?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "www.coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-10-13T17:42:41+00:00",
-    "effectiveDate": "2026-10-13T17:42:41+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
-    "score": 66,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:ai"
-    ],
-    "reviewStatus": "review",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-dacb8982f31ed226",
@@ -534,7 +486,7 @@
     "countries": [],
     "publishedAt": "2026-10-13T07:00:00+00:00",
     "effectiveDate": "2026-10-13T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -546,36 +498,35 @@
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
-    "id": "act-07c25f0e5370a164",
-    "title": "French Media Sue Meta for €1.4 Billion Over AI-Driven Data Misuse",
-    "summary": "French Media Sue Meta for €1.4 Billion Over AI-Driven Data Misuse OECD AI Policy Observatory",
-    "sourceUrl": "https://oecd.ai",
-    "sourceDomain": "oecd.ai",
-    "publisherUrl": "https://oecd.ai",
-    "publisherDomain": "oecd.ai",
+    "id": "act-77805eeaa4c9ab2e",
+    "title": "Cybercrime, electronic evidence and artificial intelligence: Mapping study",
+    "summary": "Cybercrime, electronic evidence and artificial intelligence: Mapping study rm.coe.int",
+    "sourceUrl": "https://rm.coe.int",
+    "sourceDomain": "rm.coe.int",
+    "publisherUrl": "https://rm.coe.int",
+    "publisherDomain": "rm.coe.int",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGcjdweDFsdzh1OGw1elhGeDlXRDVuRDV2ODllUE9TX2gxb0VkTEYzRkZDOE81d2E4U3IyaDVXMWptRnpTN3JaS3NveWd3bVNaOTJ0VWpQVQ?oc=5",
-    "sourceName": "OECD AI Open-Web Discovery",
-    "sourceLabelZh": "OECD.AI 官方站发现",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPanRocVpxVnJjV3FKMEE1RlE0WVZCR1lGdnI0dm5VWHloRGxDZmM4bDdHSGpaOFh5d204ZkwxSGk2TEViUV9kRlNwc2VOUTJ4WGlxRFhaUnNmZ0RQNWVuR2ZKOXVwUnJCc20yNXZwQi16V2VSWHY3bnZ6eW1QQ1JmTjVFbEY2T3E4QXk4UDdrblMtZW1UT2szMkN4bjFGdnNraVE?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "OECD AI Policy Observatory",
-    "sourceOrgLabel": "OECD AI Policy Observatory",
+    "sourceOrg": "rm.coe.int",
+    "sourceOrgLabel": "rm.coe.int",
     "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
     "publishedAt": "2026-10-12T07:00:00+00:00",
     "effectiveDate": "2026-10-12T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
-    "score": 50,
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
+    "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:policy"
+      "ai_cues:artificial intelligence"
     ],
     "reviewStatus": "review",
-    "discoveryQuery": "site:oecd.ai (\"artificial intelligence\" OR AI OR \"machine learning\") when:180d"
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-5c19fd683643b67f",
@@ -598,7 +549,7 @@
     "countries": [],
     "publishedAt": "2026-10-09T12:34:08+00:00",
     "effectiveDate": "2026-10-09T12:34:08+00:00",
-    "lastSeenAt": "2026-11-01T09:22:50+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 48,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -629,7 +580,7 @@
     "countries": [],
     "publishedAt": "2026-10-08T02:08:54+00:00",
     "effectiveDate": "2026-10-08T02:08:54+00:00",
-    "lastSeenAt": "2026-11-01T09:22:50+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 48,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -660,7 +611,7 @@
     "countries": [],
     "publishedAt": "2026-10-07T16:47:26+00:00",
     "effectiveDate": "2026-10-07T16:47:26+00:00",
-    "lastSeenAt": "2026-11-01T09:22:50+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -692,7 +643,7 @@
     "countries": [],
     "publishedAt": "2026-10-01T07:00:00+00:00",
     "effectiveDate": "2026-10-01T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -724,7 +675,7 @@
     "countries": [],
     "publishedAt": "2026-09-30T07:00:00+00:00",
     "effectiveDate": "2026-09-30T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -764,7 +715,7 @@
     "countries": [],
     "publishedAt": "2026-08-03T07:00:00+00:00",
     "effectiveDate": "2026-08-03T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 66,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -796,7 +747,7 @@
     "countries": [],
     "publishedAt": "2026-07-16T07:00:00+00:00",
     "effectiveDate": "2026-07-16T07:00:00+00:00",
-    "lastSeenAt": "2026-11-01T09:22:48+00:00",
+    "lastSeenAt": "2026-11-02T09:37:46+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -828,7 +779,7 @@
     "countries": [],
     "publishedAt": "2026-07-03T10:03:19+00:00",
     "effectiveDate": "2026-07-03T10:03:19+00:00",
-    "lastSeenAt": "2026-11-01T09:22:49+00:00",
+    "lastSeenAt": "2026-11-02T09:37:47+00:00",
     "score": 42,
     "scoreReasons": [
       "trusted_domain_discovery",
