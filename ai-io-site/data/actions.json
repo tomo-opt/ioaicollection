@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-11-05T09:36:56+00:00",
-    "lastSeenAt": "2026-11-05T09:36:56+00:00",
+    "effectiveDate": "2026-11-06T09:30:03+00:00",
+    "lastSeenAt": "2026-11-06T09:30:03+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-11-05T09:36:56+00:00",
-    "lastSeenAt": "2026-11-05T09:36:56+00:00",
+    "effectiveDate": "2026-11-06T09:30:03+00:00",
+    "lastSeenAt": "2026-11-06T09:30:03+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -107,7 +107,7 @@
     "countries": [],
     "publishedAt": "2026-10-30T18:37:02+00:00",
     "effectiveDate": "2026-10-30T18:37:02+00:00",
-    "lastSeenAt": "2026-11-05T09:36:56+00:00",
+    "lastSeenAt": "2026-11-06T09:30:04+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -140,7 +140,7 @@
     "countries": [],
     "publishedAt": "2026-07-20T07:00:00+00:00",
     "effectiveDate": "2026-07-20T07:00:00+00:00",
-    "lastSeenAt": "2026-11-05T09:36:57+00:00",
+    "lastSeenAt": "2026-11-06T09:30:05+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -172,7 +172,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T07:00:00+00:00",
     "effectiveDate": "2026-07-08T07:00:00+00:00",
-    "lastSeenAt": "2026-11-05T09:36:57+00:00",
+    "lastSeenAt": "2026-11-06T09:30:05+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -182,47 +182,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-83509c39c053b1a5",
-    "title": "Council of Europe HELP course on Artificial Intelligence and Human Rights launched for Ukrainian public servants",
-    "summary": "Council of Europe HELP course on Artificial Intelligence and Human Rights launched for Ukrainian public servants www.coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc0liZEtna21SdG9jTzJoM0loMVBBQlI1dlRZcGdmNXZKZ0RzdEV2dlBmalk4MDVwMFJhQVN6WWlKU1FZZDdJUTJLQTQ3MXFna2lNU0w3aUVrLXU1VUphWjlzbndYTzRnbjJwMGxKdDNmaGlySG1HWkJVamd4c3M4ZHpUdEFpQzFJcUJkd0NTNzRxUzNrdUxaSzd0WmJybFZQN3hpVUxQei1Gb01SYUVqdlhsRkFaZ2cySDR6ZmVIeFlTQnFNM1Rxcm5TcHpyQVRhMzZxSk1zZi14SDhjenBRUlhKZXBXTWxqaDV5eGU1aHNvM0otR3gxMQ?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "www.coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-05-15T07:00:00+00:00",
-    "effectiveDate": "2026-05-15T07:00:00+00:00",
-    "lastSeenAt": "2026-11-05T09:36:56+00:00",
-    "score": 80,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_domain_match",
-      "official_or_subdomain_match",
-      "ai_cues:artificial intelligence",
-      "action_cues:course,launched"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-88c40fe9d8c83ddd",
@@ -245,7 +204,7 @@
     "countries": [],
     "publishedAt": "2026-05-11T07:00:00+00:00",
     "effectiveDate": "2026-05-11T07:00:00+00:00",
-    "lastSeenAt": "2026-11-05T09:36:57+00:00",
+    "lastSeenAt": "2026-11-06T09:30:04+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
