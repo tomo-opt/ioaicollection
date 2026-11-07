@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-11-06T09:30:03+00:00",
-    "lastSeenAt": "2026-11-06T09:30:03+00:00",
+    "effectiveDate": "2026-11-07T08:55:03+00:00",
+    "lastSeenAt": "2026-11-07T08:55:03+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-11-06T09:30:03+00:00",
-    "lastSeenAt": "2026-11-06T09:30:03+00:00",
+    "effectiveDate": "2026-11-07T08:55:03+00:00",
+    "lastSeenAt": "2026-11-07T08:55:03+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -79,45 +79,36 @@
     "discoveryQuery": ""
   },
   {
-    "id": "act-8f0ec5af29f36f7e",
-    "title": "Media advisory - Web Summit 2026: Europe human rights chief and Vatican AI ethicist on re-centring humanity at the core of AI development",
-    "summary": "Media advisory - Web Summit 2026: Europe human rights chief and Vatican AI ethicist on re-centring humanity at the core of AI development coe.int",
-    "sourceUrl": "https://www.coe.int",
-    "sourceDomain": "coe.int",
-    "publisherUrl": "https://www.coe.int",
-    "publisherDomain": "coe.int",
+    "id": "act-48792e8b2a5d19d7",
+    "title": "ITU Workshop on “Embodied AI for Multimedia Technologies”",
+    "summary": "ITU Workshop on “Embodied AI for Multimedia Technologies” International Telecommunication Union",
+    "sourceUrl": "https://www.itu.int",
+    "sourceDomain": "itu.int",
+    "publisherUrl": "https://www.itu.int",
+    "publisherDomain": "itu.int",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSnZ0NTRMV2x1M2RUZTRrWlNHbTRBeUxQbHhYekQ5SEM1cFVtR2tTdnVVX2FhbHNNZkk4MEYyV3dhQTFmcUpBRndmaEZEQmhFOXpvRXpaQzVnQ1U0dkh3dk1uNjVKZV93V0lMTTZ2RWZYcDlyQklXdHRPcTh4RWtwZ3hOYlBNOTRucFFOYWFpSlQxM3NWTkFsNUpYaG1DMDBkbGJIRG9YVHVyRGdyOVBNRmR0UVliUV9zYXJaaXpBY3VwaUotYjRtaWpNaF85a1doVHBTdU9ObFY3aTA4ejlPWWYxZDVHaHRaMVRSUWtpZERsWklsem43VzluQTlndTAxY3EtTzVULTk?oc=5",
-    "sourceName": "Council of Europe AI Open-Web Discovery",
-    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcDZGT2FhRkJRb3FjRXRhLW8tT2dQcDZQS1lNRS1ud2U0OXExeTRlWmtsbFFhem8takdKMGR2ZXo4WDVvV09saFpldElIWEQ3WDBveHlOV01PM1ZKY0pIejdieXV5ZDBOTWloT2tWNEpPRndpa1Bxajg2UDB2Q1ZZMmxJSW9Ednc?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-    "sourceOrgLabel": "coe.int",
-    "orgMatch": {
-      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
-      "nameZh": "",
-      "officialDomain": "coe.int",
-      "score": 6.0,
-      "reasons": [
-        "official_domain_match"
-      ]
-    },
+    "sourceOrg": "International Telecommunication Union",
+    "sourceOrgLabel": "International Telecommunication Union",
+    "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-10-30T18:37:02+00:00",
-    "effectiveDate": "2026-10-30T18:37:02+00:00",
-    "lastSeenAt": "2026-11-06T09:30:04+00:00",
-    "score": 74,
+    "publishedAt": "2026-09-23T02:23:57+00:00",
+    "effectiveDate": "2026-09-23T02:23:57+00:00",
+    "lastSeenAt": "2026-11-07T08:55:04+00:00",
+    "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
-      "official_domain_match",
       "official_or_subdomain_match",
       "ai_cues:ai",
-      "action_cues:summit"
+      "action_cues:workshop"
     ],
     "reviewStatus": "publish",
-    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-8afe8392c3dfcfcb",
@@ -140,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-07-20T07:00:00+00:00",
     "effectiveDate": "2026-07-20T07:00:00+00:00",
-    "lastSeenAt": "2026-11-06T09:30:05+00:00",
+    "lastSeenAt": "2026-11-07T08:55:04+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -172,7 +163,7 @@
     "countries": [],
     "publishedAt": "2026-07-08T07:00:00+00:00",
     "effectiveDate": "2026-07-08T07:00:00+00:00",
-    "lastSeenAt": "2026-11-06T09:30:05+00:00",
+    "lastSeenAt": "2026-11-07T08:55:04+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -184,35 +175,35 @@
     "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
-    "id": "act-88c40fe9d8c83ddd",
-    "title": "UNESCO and University of Oxford launch a free global course on AI and Rule of Law",
-    "summary": "UNESCO and University of Oxford launch a free global course on AI and Rule of Law UNESCO",
-    "sourceUrl": "https://www.unesco.org",
-    "sourceDomain": "unesco.org",
-    "publisherUrl": "https://www.unesco.org",
-    "publisherDomain": "unesco.org",
+    "id": "act-11a0f365573b4fc5",
+    "title": "Session 283— Who Gets to Shape AI Governance? Youth, the Global South, and the Future of… | WSIS Forum 2026",
+    "summary": "Session 283— Who Gets to Shape AI Governance? Youth, the Global South, and the Future of… | WSIS Forum 2026 International Telecommunication Union",
+    "sourceUrl": "https://www.itu.int",
+    "sourceDomain": "itu.int",
+    "publisherUrl": "https://www.itu.int",
+    "publisherDomain": "itu.int",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHBuUUVONEFRTHhrOWF1QWgtXy1aUlctQ2RwQ3VueWFONDJ0c3R3Yy1wbVdINGczamtTa2tfQVZJaGNJalV1dzR4VTJLRTRqRFVRU2tTT0I3anBHdlV6V1hxSHk1OGhHMnFlQTZxNC1laXJORV9MSlhDWFB3WVVxWEpIUDkzSlVrQTNZVzlMYklydXJ0cF9qYjlwRGRBU0NlRWdaQWVCVU8?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GejhETW5raXJDS01Qb3BwQTc5YnlLb0t2RTdTVnNBOUZ3R3JUQmhOVUdoal9wVnhLZUFYMjh5aWtXd0U1U2RFWmlQREUzSFpfakZqN0ZNbWdHVXZBcnh3VUxmY1U3d1cwWEE0?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO",
-    "sourceOrgLabel": "UNESCO",
+    "sourceOrg": "International Telecommunication Union",
+    "sourceOrgLabel": "International Telecommunication Union",
     "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-05-11T07:00:00+00:00",
-    "effectiveDate": "2026-05-11T07:00:00+00:00",
-    "lastSeenAt": "2026-11-06T09:30:04+00:00",
+    "publishedAt": "2026-06-08T10:51:46+00:00",
+    "effectiveDate": "2026-06-08T10:51:46+00:00",
+    "lastSeenAt": "2026-11-07T08:55:04+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:course,launch"
+      "ai_cues:ai,ai governance",
+      "action_cues:forum"
     ],
     "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   }
 ]
