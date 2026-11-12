@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-11-11T09:33:45+00:00",
-    "lastSeenAt": "2026-11-11T09:33:45+00:00",
+    "effectiveDate": "2026-11-12T09:56:11+00:00",
+    "lastSeenAt": "2026-11-12T09:56:11+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-11-11T09:33:45+00:00",
-    "lastSeenAt": "2026-11-11T09:33:45+00:00",
+    "effectiveDate": "2026-11-12T09:56:11+00:00",
+    "lastSeenAt": "2026-11-12T09:56:11+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -99,7 +99,7 @@
     "countries": [],
     "publishedAt": "2026-11-10T22:21:48+00:00",
     "effectiveDate": "2026-11-10T22:21:48+00:00",
-    "lastSeenAt": "2026-11-11T09:33:46+00:00",
+    "lastSeenAt": "2026-11-12T09:56:12+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -131,7 +131,7 @@
     "countries": [],
     "publishedAt": "2026-11-10T11:18:50+00:00",
     "effectiveDate": "2026-11-10T11:18:50+00:00",
-    "lastSeenAt": "2026-11-11T09:33:46+00:00",
+    "lastSeenAt": "2026-11-12T09:56:12+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -171,7 +171,7 @@
     "countries": [],
     "publishedAt": "2026-10-30T18:50:54+00:00",
     "effectiveDate": "2026-10-30T18:50:54+00:00",
-    "lastSeenAt": "2026-11-11T09:33:46+00:00",
+    "lastSeenAt": "2026-11-12T09:56:11+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -182,37 +182,5 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-8afe8392c3dfcfcb",
-    "title": "Ray Kurzweil at AI for Good Global Summit 2026: \"We will not be replaced by AI – we will merge with it\"",
-    "summary": "Ray Kurzweil at AI for Good Global Summit 2026: \"We will not be replaced by AI – we will merge with it\" AI for Good",
-    "sourceUrl": "https://aiforgood.itu.int",
-    "sourceDomain": "aiforgood.itu.int",
-    "publisherUrl": "https://aiforgood.itu.int",
-    "publisherDomain": "aiforgood.itu.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXExRGZwTVFZaTl2dEJ3bFpBVHBMYWlBTVdDU2o4Sy1ZVUtJRjYyWHdOTFR3YjYxUVNDamxQSnBZV1JIQUd3bDNwazJxWXVHVUVqMndodUdkQWZQdHhaMHMtbUdkZWtHbWpEQ2R5LVYtZUhGbWdQSGYtMnp2aDhLa3lkRXRVeUkyOVhfeDRMMV9meVdBVjFtdHBRZDlNdFE5LXEyME9hendhUWttRmVEQWpFUFBURXE4bzZ5U3NFUzJJc28?oc=5",
-    "sourceName": "ITU AI Open-Web Discovery",
-    "sourceLabelZh": "ITU / AI for Good 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "AI for Good",
-    "sourceOrgLabel": "AI for Good",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-07-20T07:00:00+00:00",
-    "effectiveDate": "2026-07-20T07:00:00+00:00",
-    "lastSeenAt": "2026-11-11T09:33:46+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:summit"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   }
 ]
