@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-11-13T09:42:04+00:00",
-    "lastSeenAt": "2026-11-13T09:42:04+00:00",
+    "effectiveDate": "2026-11-14T09:04:58+00:00",
+    "lastSeenAt": "2026-11-14T09:04:58+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-11-13T09:42:04+00:00",
-    "lastSeenAt": "2026-11-13T09:42:04+00:00",
+    "effectiveDate": "2026-11-14T09:04:58+00:00",
+    "lastSeenAt": "2026-11-14T09:04:58+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -79,36 +79,77 @@
     "discoveryQuery": ""
   },
   {
-    "id": "act-3ec7625da1f5afa0",
-    "title": "AI answers, you decide: a companion guide to the UNESCO Media and Information Literacy Curriculum",
-    "summary": "AI answers, you decide: a companion guide to the UNESCO Media and Information Literacy Curriculum UNESCO Digital Library",
-    "sourceUrl": "https://unesdoc.unesco.org",
-    "sourceDomain": "unesdoc.unesco.org",
-    "publisherUrl": "https://unesdoc.unesco.org",
-    "publisherDomain": "unesdoc.unesco.org",
+    "id": "act-d8c17748c255a980",
+    "title": "Youth leaders call for a stronger role in shaping AI and climate policy",
+    "summary": "Youth leaders call for a stronger role in shaping AI and climate policy www.coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBldFEwSTRJZUdGRGFZNVcxVl9kZmRlN3RYU2c1ZGJwR0FkcURKUkRlZTQ4WkdGR3M2VXU0UldvNFBXRmhvMHRaSnRXT1MtRDRtTnQ4aS1xeDB4emt3WW5V?oc=5",
-    "sourceName": "UNESCO AI Open-Web Discovery",
-    "sourceLabelZh": "UNESCO AI 页面发现",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkstVU5fSXZTei1IWk5LaTJhQ1d6YUZLYWFJSUE4cUEzeG9YeExuM2ZDQ1RkbW53X3NQamI3bUJaTXAyem5TOENhU0tnNjM2Tm0taXRnS0dJM1hqbXBZTHRYSnprMDRkZWkwYlZNUzBxV3RrVGhKNFFjZkt6T1l3YW5GMEYxTU5GdS1OdVd1eXBaN01waDVpOS1fS2pUdkdJYmYyMG92ZGNER1I0ZWprdnlEOVU1ZXNXclJZ?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
     "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "UNESCO Digital Library",
-    "sourceOrgLabel": "UNESCO Digital Library",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "www.coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-11-13T17:52:43+00:00",
+    "effectiveDate": "2026-11-13T17:52:43+00:00",
+    "lastSeenAt": "2026-11-14T09:04:58+00:00",
+    "score": 80,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:call for,policy"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-0e618352977e4a86",
+    "title": "AI for good and for all: Turning inclusive governance into practical capacity",
+    "summary": "AI for good and for all: Turning inclusive governance into practical capacity AI for Good",
+    "sourceUrl": "https://aiforgood.itu.int",
+    "sourceDomain": "aiforgood.itu.int",
+    "publisherUrl": "https://aiforgood.itu.int",
+    "publisherDomain": "aiforgood.itu.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2syN01HMXFVY0x2c2VtY2EyQ0FVUFhHLUdWRDRDTm4tYkxfcG1UaWl3QUVLeXR2a3JjdDhVeWtFOExHZTQzTkw4cm9xWEVmWWVnR1pJZlV3MFUtZW5oN1pwT29oLU4wWUZ1ZVlDdTdkMTRpalV6MWpSSGpMWTRaSlRLSTBaYTVfUjNfUEE5YnU5S2RnLW9peFRIT0x1R0xsdDJlTzR3?oc=5",
+    "sourceName": "ITU AI Open-Web Discovery",
+    "sourceLabelZh": "ITU / AI for Good 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "AI for Good",
+    "sourceOrgLabel": "AI for Good",
     "orgMatch": null,
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-11-11T21:17:19+00:00",
-    "effectiveDate": "2026-11-11T21:17:19+00:00",
-    "lastSeenAt": "2026-11-13T09:42:05+00:00",
+    "publishedAt": "2026-11-13T12:41:02+00:00",
+    "effectiveDate": "2026-11-13T12:41:02+00:00",
+    "lastSeenAt": "2026-11-14T09:04:59+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
       "ai_cues:ai",
-      "action_cues:curriculum"
+      "action_cues:capacity"
     ],
     "reviewStatus": "publish",
-    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
+    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-895fecf52d79f8a5",
@@ -131,7 +172,7 @@
     "countries": [],
     "publishedAt": "2026-11-10T22:21:48+00:00",
     "effectiveDate": "2026-11-10T22:21:48+00:00",
-    "lastSeenAt": "2026-11-13T09:42:05+00:00",
+    "lastSeenAt": "2026-11-14T09:04:59+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -163,7 +204,7 @@
     "countries": [],
     "publishedAt": "2026-11-10T11:18:50+00:00",
     "effectiveDate": "2026-11-10T11:18:50+00:00",
-    "lastSeenAt": "2026-11-13T09:42:05+00:00",
+    "lastSeenAt": "2026-11-14T09:04:59+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -203,7 +244,7 @@
     "countries": [],
     "publishedAt": "2026-10-30T07:00:00+00:00",
     "effectiveDate": "2026-10-30T07:00:00+00:00",
-    "lastSeenAt": "2026-11-13T09:42:05+00:00",
+    "lastSeenAt": "2026-11-14T09:04:58+00:00",
     "score": 74,
     "scoreReasons": [
       "trusted_domain_discovery",
