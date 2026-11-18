@@ -28,8 +28,8 @@
       "Peru"
     ],
     "publishedAt": "",
-    "effectiveDate": "2026-11-17T10:49:54+00:00",
-    "lastSeenAt": "2026-11-17T10:49:54+00:00",
+    "effectiveDate": "2026-11-18T10:18:58+00:00",
+    "lastSeenAt": "2026-11-18T10:18:58+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -66,8 +66,8 @@
     ],
     "countries": [],
     "publishedAt": "",
-    "effectiveDate": "2026-11-17T10:49:54+00:00",
-    "lastSeenAt": "2026-11-17T10:49:54+00:00",
+    "effectiveDate": "2026-11-18T10:18:58+00:00",
+    "lastSeenAt": "2026-11-18T10:18:58+00:00",
     "score": 89,
     "scoreReasons": [
       "structured_source",
@@ -79,15 +79,15 @@
     "discoveryQuery": ""
   },
   {
-    "id": "act-895fecf52d79f8a5",
-    "title": "AI competency framework for teachers - UNESCO",
-    "summary": "AI competency framework for teachers - UNESCO UNESCO",
+    "id": "act-015d5a78eee93636",
+    "title": "Guidance for generative AI in education and research - UNESCO",
+    "summary": "Guidance for generative AI in education and research - UNESCO UNESCO",
     "sourceUrl": "https://www.unesco.org",
     "sourceDomain": "unesco.org",
     "publisherUrl": "https://www.unesco.org",
     "publisherDomain": "unesco.org",
     "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUZJdGl6aGdTeGVwcW1KRFVJa3lhN1BRUWJkRm1nNlV2TWpqeDRmMmNhclBYTkdBcFNrTFA5X1BkZnd2X1UzaDZDX1NwZk5WVmtvRWVSOEtFWWVsZWZqSTlvOE1td3RwMTVpbnBMMVpkNUxkOExiOHFfdTJvUllrdmhLcw?oc=5",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObDJ0NFhFejNxRTJZZWVJMGM5ckxuS21uYzV4NmllakY1QVZkZHF6YXh0dXROYUtnalBBaGRNMTl5WmpzRkhKdEpqdlVTdFVfdTViR2RNX0cwU2gxU2lUcTNta2VqazBiMVZ0TDVoVGhLZGpsVjZUQm85am5MZGNzeGZxVk0wN3JOWHFIbzh5U1AtMVFiQlE?oc=5",
     "sourceName": "UNESCO AI Open-Web Discovery",
     "sourceLabelZh": "UNESCO AI 页面发现",
     "sourceType": "trusted_domain_discovery",
@@ -97,15 +97,47 @@
     "actionType": [],
     "regions": [],
     "countries": [],
-    "publishedAt": "2026-11-14T16:55:44+00:00",
-    "effectiveDate": "2026-11-14T16:55:44+00:00",
-    "lastSeenAt": "2026-11-17T10:49:56+00:00",
+    "publishedAt": "2026-11-18T08:54:43+00:00",
+    "effectiveDate": "2026-11-18T08:54:43+00:00",
+    "lastSeenAt": "2026-11-18T10:18:59+00:00",
     "score": 56,
     "scoreReasons": [
       "trusted_domain_discovery",
       "official_or_subdomain_match",
+      "ai_cues:ai,generative ai",
+      "action_cues:guidance"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-3a60f7052d84cc32",
+    "title": "Online workshop ‘Teachers, dive into AI! A hands-on experience to",
+    "summary": "Online workshop ‘Teachers, dive into AI! A hands-on experience to UNESCO",
+    "sourceUrl": "https://www.unesco.org",
+    "sourceDomain": "unesco.org",
+    "publisherUrl": "https://www.unesco.org",
+    "publisherDomain": "unesco.org",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVGFfMlZJMWJTUWkyUW9xQ3ZJTXNNVUNLeWpLQkxuaC1LR2FyQ2xKa3dNUXFOdFpwaDdLZFp2Tk5UaXF6T2xPTGFOc2JNejNqb3FRRFdERnY0Uzg1emc3WWMtOUlYcHByb29walFrdEpxWEdZQjYyRjY0Yi1pVTZBa2p5ZTEyMzV2RS1XVU5YQUh2enpRRVN1c1loSG4wLUNmZGJGbVFBZ210YjFJcUs2dEdxSmZ5bng3VlVhS0Z6R0RSaTVQU1pOamcyNlZ6Zw?oc=5",
+    "sourceName": "UNESCO AI Open-Web Discovery",
+    "sourceLabelZh": "UNESCO AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "UNESCO",
+    "sourceOrgLabel": "UNESCO",
+    "orgMatch": null,
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-11-18T06:14:23+00:00",
+    "effectiveDate": "2026-11-18T06:14:23+00:00",
+    "lastSeenAt": "2026-11-18T10:18:59+00:00",
+    "score": 50,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_or_subdomain_match",
       "ai_cues:ai",
-      "action_cues:competency,framework"
+      "action_cues:workshop"
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
@@ -139,7 +171,7 @@
     "countries": [],
     "publishedAt": "2026-11-13T17:52:43+00:00",
     "effectiveDate": "2026-11-13T17:52:43+00:00",
-    "lastSeenAt": "2026-11-17T10:49:54+00:00",
+    "lastSeenAt": "2026-11-18T10:18:59+00:00",
     "score": 80,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -150,38 +182,6 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
-  },
-  {
-    "id": "act-0e618352977e4a86",
-    "title": "AI for good and for all: Turning inclusive governance into practical capacity",
-    "summary": "AI for good and for all: Turning inclusive governance into practical capacity AI for Good",
-    "sourceUrl": "https://aiforgood.itu.int",
-    "sourceDomain": "aiforgood.itu.int",
-    "publisherUrl": "https://aiforgood.itu.int",
-    "publisherDomain": "aiforgood.itu.int",
-    "resolvedUrl": "",
-    "discoveryLink": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2syN01HMXFVY0x2c2VtY2EyQ0FVUFhHLUdWRDRDTm4tYkxfcG1UaWl3QUVLeXR2a3JjdDhVeWtFOExHZTQzTkw4cm9xWEVmWWVnR1pJZlV3MFUtZW5oN1pwT29oLU4wWUZ1ZVlDdTdkMTRpalV6MWpSSGpMWTRaSlRLSTBaYTVfUjNfUEE5YnU5S2RnLW9peFRIT0x1R0xsdDJlTzR3?oc=5",
-    "sourceName": "ITU AI Open-Web Discovery",
-    "sourceLabelZh": "ITU / AI for Good 页面发现",
-    "sourceType": "trusted_domain_discovery",
-    "sourceOrg": "AI for Good",
-    "sourceOrgLabel": "AI for Good",
-    "orgMatch": null,
-    "actionType": [],
-    "regions": [],
-    "countries": [],
-    "publishedAt": "2026-11-13T12:41:02+00:00",
-    "effectiveDate": "2026-11-13T12:41:02+00:00",
-    "lastSeenAt": "2026-11-17T10:49:56+00:00",
-    "score": 50,
-    "scoreReasons": [
-      "trusted_domain_discovery",
-      "official_or_subdomain_match",
-      "ai_cues:ai",
-      "action_cues:capacity"
-    ],
-    "reviewStatus": "publish",
-    "discoveryQuery": "site:itu.int (\"artificial intelligence\" OR AI) when:180d"
   },
   {
     "id": "act-5a590ea068039243",
@@ -204,7 +204,7 @@
     "countries": [],
     "publishedAt": "2026-11-10T11:18:50+00:00",
     "effectiveDate": "2026-11-10T11:18:50+00:00",
-    "lastSeenAt": "2026-11-17T10:49:56+00:00",
+    "lastSeenAt": "2026-11-18T10:18:59+00:00",
     "score": 50,
     "scoreReasons": [
       "trusted_domain_discovery",
@@ -214,5 +214,46 @@
     ],
     "reviewStatus": "publish",
     "discoveryQuery": "site:unesco.org (\"artificial intelligence\" OR AI) when:180d"
+  },
+  {
+    "id": "act-8f0ec5af29f36f7e",
+    "title": "Media advisory - Web Summit 2026: Europe human rights chief and Vatican AI ethicist on re-centring humanity at the core of AI development",
+    "summary": "Media advisory - Web Summit 2026: Europe human rights chief and Vatican AI ethicist on re-centring humanity at the core of AI development www.coe.int",
+    "sourceUrl": "https://www.coe.int",
+    "sourceDomain": "coe.int",
+    "publisherUrl": "https://www.coe.int",
+    "publisherDomain": "coe.int",
+    "resolvedUrl": "",
+    "discoveryLink": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNemZWdFhaSTAxT21Xam92TnZPYTlMRnM2QVdEaHQxdTBhdFhfMVI4cTdrd0RLZFJuOGdSMkhzWmVJWWlXWVdkckhERXZsM3dMVjZPX0gzVWVfTGJGajBaekNzakdmbmRhalFMVWZKMUNNOVlrcUNNaEFXS2lFVHJ2cUZxT21uWEQ4Z0ljQzlfalJLM295Qjk3Nlh1UkczdElxM3NlUkZTVkp5dG1zOUxQeHpRY2pZZ2ZmOFRLZXM2Y0ZhcjI2SmtPZUFvWXY1YmRqQVBBaFVIaTB0TmZ4WlpwM0lRWVN1WTIzQXBGRktmQnRud2diNFlfUi1RZ1hTSkhZSW1Xbnl5aUs?oc=5",
+    "sourceName": "Council of Europe AI Open-Web Discovery",
+    "sourceLabelZh": "欧洲委员会 AI 页面发现",
+    "sourceType": "trusted_domain_discovery",
+    "sourceOrg": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+    "sourceOrgLabel": "www.coe.int",
+    "orgMatch": {
+      "nameEn": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+      "nameZh": "",
+      "officialDomain": "coe.int",
+      "score": 6.0,
+      "reasons": [
+        "official_domain_match"
+      ]
+    },
+    "actionType": [],
+    "regions": [],
+    "countries": [],
+    "publishedAt": "2026-10-30T07:00:00+00:00",
+    "effectiveDate": "2026-10-30T07:00:00+00:00",
+    "lastSeenAt": "2026-11-18T10:18:59+00:00",
+    "score": 74,
+    "scoreReasons": [
+      "trusted_domain_discovery",
+      "official_domain_match",
+      "official_or_subdomain_match",
+      "ai_cues:ai",
+      "action_cues:summit"
+    ],
+    "reviewStatus": "publish",
+    "discoveryQuery": "site:coe.int (\"artificial intelligence\" OR AI) when:180d"
   }
 ]
